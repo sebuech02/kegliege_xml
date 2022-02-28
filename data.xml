@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<spiele>
+    <spiel>
+        <id>1</id>
+        <name>Lotterie</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams: Es wird abwechselnd gekegelt. Wird eine Zahl des Bingo Felds gekegelt wird sie bei dem entsprechendem Team gestrichen. Das Team welches zuerst einen dreifach Bingo hat, gewinnt. Eine Pumpe ist nicht 0.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>2</id>
+        <name>Berg und Talfahrt</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird abwechselnd in die Vollen geworfen. Die ersten drei Würfe werden addiert und die nächsten drei Würfe werden abgezogen. Die höchste Punktzahl gewinnt. (Die Anzahl der Würfe variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>3</id>
+        <name>Wie du mir so ich dir</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird abwechselnd in die Vollen geworfen. Erreicht man mehr Holz als sein Vorgänger so bekommt dieser einen Strich, bei weniger Holz bekommt man selbst einen Strich. Herscht Gleichstand bekommen beide einen Strich abgezogen. Pumpen sorgen direkt für einen Strich und Abräumen sorgt für das Abziehen eines Strichs. Wer 5 Striche erreicht scheidet aus. Gewonnen hat der letzte Kegler. (Die Anzahl der Striche variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>4</id>
+        <name>Schlag den Kegler</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird abwechselnd in die Vollen geworfen. Der erste Wurf zählt einfach, der zweite doppelt usw. Nach 4 Runden gewinnt natürlich der Kegelbruder mit den meisten Punkten. (Die Anzahl der Runden variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>5</id>
+        <name>Sargspiel das Original</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Ein Spiel sie alle zu knechten, sie alle zu finden, ins dunkel zu treiben und ewig zu binden.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>6</id>
+        <name>Sargspiel 2.0</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Siehe "Sargspiel das Original"</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>7</id>
+        <name>Hohe Hausnummer</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Das Spiel läuft über drei Runden, in jeder Runde wirft der Spieler einmal auf die Vollen. Die geworfenen Holz werden beliebig in das Hunderter-, Zehner- oder Einerkästchen eingetragen (sofern die entsprechende Spalte noch frei ist). Ziel des Spiels ist es, eine möglichst hohe Hausnummer zu erkegeln. Ein Wurf in die Pumpe wird mit 0 gewertet. Das optimale Ergebnis ist drei mal die Neun. Wer am Ende die höchste Zahl hat, hat gewonnen.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>8</id>
+        <name>Niedrige Hausnummer</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Das Spiel läuft über drei Runden, in jeder Runde wirft der Spieler einmal auf die Vollen. Die geworfenen Holz werden beliebig in das Hunderter-, Zehner- oder Einerkästchen eingetragen (sofern die entsprechende Spalte noch frei ist). Ziel des Spiels ist es, eine möglichst kleine Hausnummer zu erkegeln. Ein Wurf in die Pumpe wird mit 9 gewertet. Das optimale Ergebnis ist drei mal die Eins. Wer am Ende die niedrigste Zahl hat, hat gewonnen.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>9</id>
+        <name>17 und 4</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Funktioniert wie Schwarzer Johannes (unredlich Black Jack), nur das man statt eine Neu Karte zu bekommen in die Vollen wirft und den erkegelten Wert bekommt. Abbräumen entspricht hierbei einem Ass mit Harambe drauf und wer die Pumpe trifft überwirft Automatisch und scheidet aus. (Die Anzahl der Runden variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>10</id>
+        <name>Höher Tiefer Gleich</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird abwechselnd in die Vollen geworfen doch bevor man dies tut muss Mann ansagen, ob Mann den Wurf des Vorkeglers überbietet, underbietet oder genau trifft. Wer falsch liegt oder eine Pumpe hat bekommt einen Strich. Wer 3 Striche hat fliegt und gewonnen hat ratet mal wer. (Die Anzahl der Striche variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>11</id>
+        <name>Kegelwolf</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Wie Werwolf, wer das nicht kennt bidde nachgoogeln. Den Spaß erkläre ich euch nicht ihr Unwürdigen. Bei den Abstimmungen über Hinrichtungen wird statt abzustimmen für die Person gekegelt. Die Person für die die meisten Holz gekegelt wurden stirbt.  Rolle und so einen Spaß nach eigenen Ermessen.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>12</id>
+        <name>Triff das Huhn</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Ein Kegelaffe wird zum Huhn bestimmt (Am besten der vollste oder jemand mit exotischer Herkunft). Das Huhn wirft anschließend in die Vollen und nun müssen alle anderen der Reihen nach versuche die Punktzahl des Huhns zu wiederholen. Wer dies nicht schafft bekommt die Differenz angeschrieben. Wer "Das Huhn trifft" bekommt keinen Strich und wird das neue Huhn, hierfür wirft er nochmals in die Vollen um seine Punktzahl festzulegen. Nach drei Runden gewinnt der Affe mit den wenigsten Punkten. (Die Anzahl der Runden variiert je nach Anzahl der Spieler)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>13</id>
+        <name>Mensch ärgere dich nicht</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Alle Menschen werfen in die Vollen und ihre Punktzahl wird addiert (d.h. plus rechnen). Wer 40 Punkte (oder mehr) erreicht hat hat gewonnen. Erreicht jemand einen Punktzahl die bereits jemmand hat so wird dieser zurück auf Null gesetzt (Wie bei Mensch ärgere dich nicht eben). (Die Anzahl der Punkte variiert je nach Anzahl der Spieler, wie immer)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>14</id>
+        <name>Goldene 30</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Ihr wollt die Anleitung? Die könnt ihr haben. Sucht sie doch! Irgendwo hab ich die beste Anleitung der Welt versteckt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>15</id>
+        <name>1 Euro 75</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Hierbei geht's um Geld für die Kasse also nur spielen, wenn keine Errichs im Raum sind. Die Anleitung folgt wenn ihr genug überwiesen habt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>16</id>
+        <name>100 vor und zurück</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams werfen abwechselnd in die Vollen. Nachdem ein Team exakt Hundert erreicht hat muss es nun versuchen durch Abziehen ihrer Würfe zurück auf Null zu kommen. Das Team welches zuerst wieder Null erreicht gewinnt, wer hätte es gedacht. Würfe die über 100 bzw. unter 0 landen würden zählen nicht.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>17</id>
+        <name>Bus fahren</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Jeder anwesende Harambe wirft in die Vollen und seine Punktzahl bestimmt seine Buslinie. Nachdem die geschehen ist wird der Reihe nach in die Vollen geworfen und je nach Punktzahl bekommt die zugehörige Linie ein Rad (insgesammt gibt es sechs). Der erste bus mit sechs Rädern fäht nach Istanbul und alle seine Insassen gewinnen. (Beispiel: Der Mösen Mexikaner kegelt eine 4 und sitz daher in Linie 4. Nachdem jeder seine Linie hat wird die Vier gekegelt, Carlos bekommt ein Rad usw.)</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>18</id>
+        <name>Ebbe und Flut</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Der Spieler muss so viele Punkte wie möglich machen. Dabei muss er mit seinem Wurf nicht nur eigene Punkte machen, sondern gleichzeitig so taktieren, dass alle anderen Spieler möglichst wenig Punkte erzielen.Die Kegler kegeln reihum pro Runde jeweils einen Wurf. Wird eine „3“ geworfen herrscht Ebbe und alle nachfolgenden Wurfergebnisse der Kegler werden halbiert. Bei ungeraden Ergebnissen wird abgerundet. Fällt eine „5“ ist der normale Pegelstand erreicht und alle nachfolgenden Ergebnisse werden mit ihrer normalen Punktzahl gewertet. Bei einer „7“ herrscht Flut und alle nachfolgenden Ergebnisse werden verdoppelt. Die Rundenzahl wird vor dem Spiel festgelegt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>19</id>
+        <name>Kegler Uno</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wie Uno eigentlich, was erwatet ihr? Uno erkläre ich nicht. Falls einer von euch nicht weiß wie das geht bidde sofort verbannen. Zu Anfang hat jeder 7 Karten. Bei einer 0,1,2,3 und 6 verliert man eine Karte. Bei einer 7 bekommt der nächste zwei Karten draufgerechnet, bei einer 8 setzt der nächste aus und bei einer neun verliert amn eine karte und darf nochmal. 4 und 5 entsprechen kann nicht und eine Pumpe sorgt für Plus eine Karte bei einem selbst.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>20</id>
+        <name>Plus, Minus, Mal, Geteilt</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Der Name verrät alles. immer in die Vollen und der erste Wurf zählt plus, der zweite minus, der dritte mal und der letzte geteilt (immer aufrunden, wir sind ja nett). Die höchste Punktzahl gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>21</id>
+        <name>Gauner</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Nur in der Erweiterung Polnische-Kegelspiele erhältlich.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>22</id>
+        <name>101 Kegel</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Während die Gruppe andere grandiose Kegelspiele direkt aus dieser App spielt werden die insgesammt umgefallenen Kegel addiert (Eine gute Bahn nimmt euch diese Arbeit ab). Der Fuchs der den 101. Kegel umschmeißt bekommt von den restlichen Keglern 1€ oder auch 50 Cent.</beschreibung>
+        <atf>atf</atf>
+    </spiel>
+    <spiel>
+        <id>23</id>
+        <name>Tannenbaum</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Die Manschaft wird in zwei Teams aufgeteilt. Das Spiel ist simpel wer eine Zahl kegelt darf diese für sein Team streichen (Jedes Team hat einen eigenen Baum), der erste Baum ohne Blätter hat gewonnen oder das Team welches den Stamm streichen kann und sommit den Baum fällt gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>24</id>
+        <name>Ü-Ei Kegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Man Benötigt Ü-Eier fürs Kegeln und hat man die einmal geht es der Reihe nach um. Ein Kegler beginnt mit einem Ü-Ei in der Hand und der Rest steht an der Bahn. Der Kegler mit Ei muss das Ü-Ei aupacken, essen und zusammen bauen. in dieser Zeit kegelt der Rest in die Vollen und für jeden umgefallenen Kegel bezahlt der Ü-Ei verdrücker 10 Cent. Ist er fertig wird aufgehört zu Kegeln. Wer eine Figur hat (ein Teil ohne irgendetwas bauen zu müssen) muss nicht zahlen. Das Geld landet in der Kasse. Geheimtipp: seit schnell beim bauen und essen (Etwas mit Aufklebern hat quasi verloren).</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>25</id>
+        <name>Die Sonne</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Das Ziel ist so wenig wie möglich Striche zu bekommen und den anderen Keglern zwei Striche zu verpassen. Wer am Ende als letzter noch im Spiel ist hat gewonnen. Der Spielleiter zeichnet zuerst einen Kreis an die Tafel, danach werden alle Kegler als Sonnenstrahlen im Uhrzeigersinn um den Kreis herum geschrieben (Bei wenig Spielern gibt es eine Kindergartensonne in der Ecke der Tafel). Anschließend beginnt das Spiel mit dem Kegeln auf die Vollen. Das Wurfergebnis wird ausgehend vom eigenen Namen auf der Tafel im Uhrzeigersinn abgezählt und der Kegler erhält einen Strich (Ja, man kann sich sebst treffen). Kegelt jemand beispielsweise eine Fünf erhält der Kegeler an der fünften Position nach dem eigenen Namen einen Strich. Wer zwei Striche hat hat verloren und scheidet aus.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>26</id>
+        <name>Absacker</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Jeder würdige Kegler wirft in die Vollen und pro nicht gefallen Kegel zahlt der Kegler 1€ (alternativ auch 50 Cent). All das Geld wird zusammengelegt und in Schnaps investiert. Dannach wird getrunken.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>27</id>
+        <name>Bauern-Kegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Bei diesem Meisterwerk geht es darum die meisten Bauern umzukegeln. Als Bauern zählen alle Vorderen-rand-Kegel (Das sollten 5 sein, sonst macht ihr was falsch). Es wird in die vollen geworfen und für jeden Bauern gibt es einen Punkt. Trifft jemand den König (der in der Mitte) gibt es keine Punkte. Wer nach 4 Durchgängen die meisten Punkte hat gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>28</id>
+        <name>Fußball</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Zweier Teams und in die Vollen. Jedes Team besteht aus einem Verteidiger und einem Stürmer. Es ist möglich im Turniermodus oder nach Anzahl der Tore zu spielen, beides ist ja wohl selbst erklärend. Ein Angreifer beginnt und die von ihm geworfen Kegel müssen durch den Verteidiger des nächsten Teams überboten werden, bei Gleichstand gewinnt der Verteidiger, gelingt dies nicht bekommt das Team des Angreifers ein Tor. Danach ist der Angreifer des verteidigenden Teams an der Reihe. Rest könnt ihr euch denken. </beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>29</id>
+        <name>Bau die Mauer</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Zweier Teams, bestehend aus einem Bob der Meister und einem Mexikaner, und in die Vollen. Es beginnt der Baumeister von Team 1, dieser muss versuchen mindestens eine sechs zu kegeln. Schafft er es bekommt die Mauer seines Teams einen Stein mehr. Nun ist der Mexikaner von Team 2 an der Reihe, dieser muss die Anzahl der Steine von Team 1 überbieten. Beispielsweise hat Team 1 einen Stein, so muss er mindestens einen Kegel umwerfen, schafft er nicht bleibt er an der Mauer kleben und die border patrol holt ihn. Das letzte Team welches übrig bleibt schafft es Mexiko zu verlassen und gewinnt. </beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>30</id>
+        <name>Wolfsjagd</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Es wird eine Person ausgesucht (die vollste/nüchternste) die der Wolf ist. Bei jedem Durchlauf muss der Wolf 3mal in die Vollen werfen und zwar mit seiner schwachen Hand. Seine höchste Punktzahl zählt. Nun kommts darauf an den Wolf zu fangen, wobei man bei einem Wurf in die Vollen (beliebige Hand) mehr erreichen muss als der Wolf. Gelingt dies bekommt man einen Strich. Wer 8 Striche hat erlegt den Wolf. Am Ende jedes Durchlaufs darf der Wolf eine Person töten die weniger erreicht hat als er. Die verbleibenden Kegler (der Tote darf auch) trauern darauf hin um ihren gefallenen Kameraden mit einer Runde Schnaps.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>31</id>
+        <name>Auf den Bauern</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Noch viel besser als Bauern-Kegeln! Gibt's aber nur in der Carlos stinkt Erweiterung (Das Spiel ist natürlich ein anti-Carlos Spiel)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>32</id>
+        <name>Böse 7</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder Kegelt einzeln in die Vollen und seine Punktzahl wird addiert. Ziel ist es insgesammt 42 (Auf Wunsch auch mehr oder weniger) zu erreichen. Erreicht man eine Punktzahl die eine Sieben enthält oder durch sieben ganzzahlig Teilbar ist, so muss man wieder bei Null beginnen (Beispielsweise 14 oder 27). Dieses Spiel ist auch in Teams möglich.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>33</id>
+        <name>Eurospiel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird eine Tabelle angemalt (An besten von jemanden der Lehramtstudiert, bitte kein Mandala). In den Zeilen (Eine Zeile geht von rechts nach links, für geistig eingeschränkte) sollen die Namen der würdigen Kegler geschrieben werden und in die Spalten (oben nach unten)  folgende Geldeträge: 10Cent; 20Cent; 50Cent; 1€; 2€ (Alternativ dürfen auch noch mehr Beträge ergänzt werden) Nun wird in die Vollen gekegelt und ählich wie bei hohe Hausnummer muss danach die Punktzahl zu einem Geldbetrag geschrieben werden. Wer am Ende in einer Spalte die niedrigste Punktzahl hat muss den angegebenen Betrag bezahlen. Das Geld landet entweder in der Kasse oder wird in Schnaps investiert (letzteres ist dei einzig wahre Wahl).</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>34</id>
+        <name>Hausbau</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird der Reihe nach in die Vollen geworfen. Wer mehr als sein Vorgänger schaft bekommt einen Strich für sein Haus, dieses sollte später so ausssehen wie das "Haus vom Nikolaus". Wer es nicht kennt hat Pech gehabt. Wer eine 5macht bekommt einen Strich abgezogen (selbieges gilt für eine Pumpe, aber ihr seid ja alles Profis). Wer sein Haus als erstes erbaut gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>35</id>
+        <name>Schwarz-Rot</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Man benötigt ein Kartenspiel und es wird auf die Vollen geworfen. Der erste beginnt und Kegelt (ungerade=Schwarz, gerade=Rot), danach deckt er die oberste Karte vom Stapel auf und wenn sie seiner Farbe entspricht, darf er sie in die Mitte legen, sonst muss er sie nehmen. Der Zweite tut das gleiche und wenn seine Farbe nicht der der Karte entspricht bekommt er alles aus der Mitte plus seine Karte. Wenn der Stapel durch ist verliert derjeniege mit den meisten Karten und der mit den wenigsten gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>36</id>
+        <name>Hindernislauf</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird auf die Vollen kegelt. Erreicht ein Kegler eine der genannten Punktzahlen wird die folgende Aktion ausgeführt: 2 Aussetzen, 3 Aussetzen, 5 zur 10, 7 auf 0, 11 nächste *2, 13 nächste zurück(Wobei man bei einer eins, acht zurück muss; bei einer zwei sieben, usw), 17 zur 20, 19 zum Führenden, 23 zur 20, 29 zum letzten, 31 nächste zurück (wie bei der 13), 37 1€ oder Start, 40 Ziel (drüber geht auch)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>37</id>
+        <name>Rechts-Links</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>38</id>
+        <name>Jokerspiel</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Zweier Teams, jewails in die Vollen. Jedes Team muss Versuchen in seinen Zwei Würfen in die Vollen 9, 11, 13, 16, 17 oder 18 Punkte zu erreichen. Gelingt dies nicht gibt es einen Strich, bei 4 Strichen scheidet das Team aus. Gewinnen tut das letzte Team.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>39</id>
+        <name>Formel 1</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird eine Runde niedrige Hausnummer für die Zeit in der Qualli gespielt. Der Gewinner bekommt 3 Punkte, der Zweite zwei und der Dritte einen. Dannach kommt das Rennen über fünf Runden in jeder Runde Kegelt man in die Vollen und bekommt seinen Punktzahl addiert. Während der Runden darf man nach seinem Wurf auch in die Box, dadurch giibt es für die gerade gespielte Runde keine Punkte, aber für die nächste  doppelt so viele. Gewonnen hat der Bolide mit den meisten Punkten.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>40</id>
+        <name>Contra</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Ein simples und echt tolles Spiel. Es wird eine Runde Bier und/oder Schnaps bestellt (Und ist sehr zu empfehlen).</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>41</id>
+        <name>Freundschaftsspiel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder gegen jeden in die Vollen. Es werden soviele Runden wie Teilnehmer gespielt, es geht reiheum und in jeder Runde beginnt jemand anderes. In der ersten Runde beginnt der Erste und seine Zahl wird aufgeschrieben, wirft einer der nachfollgenden Kegler die gleiche Zahl so bekommt er die Punkte dafür und der erste bekommt ebenfalls nachmal die Punkte dafür. Nach der ersten Runde startet alle von neuem und nur mit einer anderen Person die beginnt, bis alle durch sind. Gewonnen hat derjeniege mit den meisten Punkten. (Beispiel: A wirf 3, B wirft 6, C wirft 6 somit bekommt A insgesammt 3, B 12 und C 6. In der Zweiten Runde beginnt B und in der Dritte C)</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>42</id>
+        <name>42</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>In 3er Gruppen. Die Bahn steht auf abräumen und jedes Team muss versuchen in seinen drei Würfen 14 zu erreichen (3*14=42). Die Diffenrenz zu 14 wird für das Team aufgeschrieben und nach x-Runden gewinnt das Team mit dem kleinsten Wert. Während der drei Würfe hat jedes Team die Möglichkeit einmal neu stellen zu lassen, muss diese aber nicht wahrnehmen.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>43</id>
+        <name>Big Brother</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird der Reihe nach in die Vollen geworfen. Vor jedem Wurf entscheidet sich der Kegler für wenn er Kegelt und die gewünschte Person bekommt die erkegelte Zahl als Striche angeschrieben. Bei einer 5 beklommt man selbst die Striche gutgeschrieben und nach x-Runden (4 klingt gut) werden die beiden Kegler mit den meisten Strichen ausgesucht und sie müssen ein Stechen kegeln um der Schande zu entgehen, es geht nämlich nur um das verlieren. Beide werfen in die Vollen und derjeniege mit der niedriegeren Holz-Zahl verliert und ist die Schnade der Kegel-Runde.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>44</id>
+        <name>Deckel druf!</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Es wird ein beliebeges jeder gegen jeden Kegelspiel aus dieser wundervollen App gespielt (beispielsweise Hohe Hausnummer). Der Gewinner bekommt alle Getränke die zum Zeitpunkt des Spiels auf seinem Deckel sind von der Kasse bezahlt.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>45</id>
+        <name>Schneckenrennen</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Die Bahn steht auf abräumen. Jeder Kegler muss einmal abbraumen und hat dabei 10 Würfe. Ziel ist es möglichst viele Würfe zu verbrauchen (ideal sind also 10). Wer eine Pumpe schafft bekommt einen Wurf abgezogen, hat also bei dem ersten mal nur noch 9. Gezählt werden nur Würfe in dennen etwas die Bahn auf richtiegem Weg durchläuft. WEr nach 10 Würfen nicht abgeräumt hat verliert automatisch, sonst gewinnt derjeniege mit den meisten gültiegen Würfen.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>46</id>
+        <name>Spalte den Arsch</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Zweier Temas auf Abräumen. Jedes Team wirft in die Vollen und muss in seinen zwei Würfen eine der follgenden Figuren werfen: Mittelgang. Vordere oder hintere Häfte (eins reicht), Linke-Seite(alles außer der Äußerste), Rechte-Seite, Halbkreis vorne (Die Fünf vorderen Kegel die am Rand sind) Hat ein Team alle Bilder geschafft gewinnt es und der Rest stinkt. </beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>47</id>
+        <name>Siehst du das Dreieck</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es werden 6 Durchgänge der Reihe nach in die Vollen gespielt. Ziel ist es Irgendetwas zu werfen das wie ein Dreieck aussieht. Schafft das jemand gibt es einen Punkt, pro Durchgang ist nur ein Punkt möglich und lögischerweise gewinnt der mit den meisten Dreiecken. Wirft jemand eine Fünf Vier oder Drei hat er die Möglichkeit das Gute Rechtwinkliege Dreieck zu machen, welches 3 Punkte gibt. Dafür wirft er noch zweimal in die Vollen und muss in seinen Würfen einmal jeweils eine 3, 4und 5 geschaftt haben.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>48</id>
+        <name>33</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>33 Wurf in die Vollen. Die meisten Punkte gewinnen (Häufig Verein gegen Verein)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>49</id>
+        <name>Die Konstante</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>5 Durchgänge in die Vollen. Die Zahl vom ersten Durchgang wird für jeden Kegler aufgeschrieben und die Differenz in den follgenden Würfen wird für jeden als Strich notiert. Gewinner ist der mit den wenigsten Strichen, er ist die einziege Konstante im Raum!</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>50</id>
+        <name>Eisbärenkegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Auf der Kegelbahn stehen alle Kegel außer der König in der Mitte. (Wie acht Eisbären um ein Wasserloch) Nun muss Kegler eins das Loch frei räumen, dafür darf er aber maximal drei Eisbären vertreibn. Trifft er mehr jagen ihn die wütenden Bären und seinZug ist vorbei, bei einer Pumpe darf er weiter machen. Nun zählt wie viele Bären er vertriebne hat, was bitte aufgeschrieben wird, (im besten Fall acht und falls er in einem Zug mehr als drei geroffen hat zählen die auch). nachdem alle fertig sind müssen die jeniegen, die die Bären wütend gemacht haben in ein Eisloch verschwinden, dafür müssen sie einmal nur auf den König werden und treffen. Gelingt dies nicht sind sie tot und werden gefressen.Wer nach x-Runden die meisten Bären vertrieben hat gewinnt. Er ist der Eskimo König.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>51</id>
+        <name>Idiotenkegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird der Reihe nach in die Vollen gekelt und er mit denn meisten Punkten gewinnt. Dabei wird jeder Durchgang anders gekegelt. (Schwache Hand, Im Liegestütz, Durch die Beine von Hinten, Durch die Beine von Vorne, sitzend auf einem Stuhl, Auf einem Bein)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>52</id>
+        <name>Zwilingskegeln</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Jeder Wirft in die Vollen. Das erste Paar beginnt, kegeln sie unterschiedliche Punktzahlen wird die Differenz von ihren Punkten abgezogen. Bei einer Pumpe gibts sofort minus 10 Punkte. Bei gleicher Punktzahl gibts das Produckt(beides mal nehmen) als Punkte addiert (plus). Bei gleicher Punktzahl und gleichem Bild, gibts zum Produkt auch noch 25 gratis Punkte addiert. Gewinner ist das Paar, welches nach x-Runden die meisten Punkte hat.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>53</id>
+        <name>Turmkegler</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird ein Turm aus Getränken gebaut (Basis 3 Weizen; 2 Pils-Bier; 2 Schäpse; 1 Schnaps), diese werden von der Kasse gezahlt. Dannach werfen alle Kegler in die Vollenund der mit den meisten Punkten darf eine Ebene des Turms abbauen. Besteht die Ebene aus mehr als einem Getränk werden die Übrigene an Kegler seiner Wahl abgegeben (Fahrer dürfen alles abgeben). Gewonnen hatr der Vollste.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>54</id>
+        <name>Hausnummer Spezial</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Genau wie Hohe/Niedrige Hausnummer (Guck nach wie es geht) nur das man sich die Position nicht aussuchen darf. Die Position wird durch einen gesonderten Wurf des nächsten Keglers bestimmt in der ersten Runde nimmt man seine Kegelzahl modulo 3 (Das heißt so orft drei vom ergebniss abziehen bis da 0, 1 oder 2 steht), bei einer 1 kommt die Zahl an stelle 1 bei einer zwei an die zweite und bei einer Null nach hinten. In der zweiten Runde weird die Position durch modulo 2 bestimmt (1 für die vordere und null für die hintere Position). Rest ist trivial</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>55</id>
+        <name>Schiffeversenken</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Mannschaften, jede Manschaft bekommt Schiffe aufgemalt die das andere Team zerstören muss. Die Schiffe: (2) (333) (45454) (678876) Welches Team keine Schiffe mehr hat verliert. (Natürlich wirft jeder in die Vollen)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>56</id>
+        <name>Schwarzer Peter</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Während des Tricktreffs, der KEgelei bekommt der Verlierer eines einzel spiels den Schwarzen Peter. Verliert beim nächsten einzelspiel (free for all) jemand anderes, ist er Schwartzer Peter. Als Schwarzer Peter hat er immer die Möglichkeit zweimal zu Kegeln und sich ein Ergebniss auszusuchen und das in jedem Spiel. Aber verliert er als Schwartzer Peter ein einzel oder duoq Spiel muss er eine Runde Schnapps geben,</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>57</id>
+        <name>Tupperfahrt</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Es werden 4er Teams aufgeteilt oder 5er/3er so wie es passt und dannach werden entsprechend der Teamgöße Stühle auf die Anlaufbahn gestellt. Diese bilden einen Bus, Tupperfahrt. Ziel ist es zur Landesgartenschau zu fahren. Dafür beginnt der erste der Tupperfahrt der vorne sitzt und wirft in die Vollen. Dies machen ihn alle hinter ihm sitzenden nach außer der Letzte und die Punktzahl wird addiert. Der Letzte ist Ger, mit dem Kaffe, er verlangsamt die fahrt und seine Punktzahl wird abgezogen. Bei einer Pumpe von Gerd schwapt der Kaffe über und es gint 10 minus Punkte.Gewonnen hat die Tupperfahrt mit den meisten Punkten nach x Durchgängen. Wichtig ist das während des Werfens die ganze Tupperfahrt auf seinem Platz im Bus sitzt.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>58</id>
+        <name>Hinten bei der Crew</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Einzeln in die Vollen. Nach jeder Runde wird geschaut wer die höchste Punktzahl erkegegelt hat, dieser bekommt doppelte Punkte. der Letzte mit den wenigsten Punkten ist hinten bei der Crew und bekommt nichts. Sind mehrere Letzter bekommen mehrere nichts.Nach x Runden gewinnt der mit den Meisten Punkten</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>59</id>
+        <name>Peter Zwegat</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Eine Person wird als Peter Zwegat bestimmt, dieser Wirft zweimal in die Vollen und seine Zahlen werden nebeninander geschrieben, die Höhere nach Vorne. Das ist der Schuldenschnitt den der Rest überbieten muss. Die Restlichen Kegler haben nun 10 Versuche in die Vollen und ihre Punkte werden addiert, dabei muss jeder mindestens einmal Gekegelt haben. Ist das Ergebniss größer als der Schuldenschnitt hat Peter Zwegat es nicht geschafft und der Rest gewinnt. andernfalls gewinnt Peter, auch bei Gleichstand. Wer die ,meisten der 3 Runden gewinnt gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>60</id>
+        <name>Random Müll</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder wirft zweimal in die Vollen und sein ergebniss wird nebeneinander geschriebn, beispielsweise 74, Diese Punktzahl wird im Normalfall addiert und nach 4/6/8 Runden gewiint der mit den Meisten.Es gibt aber besondere Zahlen (alles mit null sorgt für -10; Primzahl = +12 Punkte; Durch drei teilbar macht +3; Schanppszahl sorgt für einen Handwechsel; alles mit 8 setzt die Punkte auf null zurück; alles mit 5 sorgt für eine abziehen der Punkte; endet das ergebniss auf eine 1 oder 6 muss man 5 Punkte abziehen) Es Sind auch mehrere Sachen gleichzeitig möcglich und man startet mit 30 Punkten.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>61</id>
+        <name>Schnappszahl</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams in die Vollen Ziel ist es 100 oder mehr Punkte zu erreichen. Ergebniss werden addiert und wer sein Team auf eine Schnappszahl bringt bekommt einen Strich und setzt sein Team 11 Punkte zurück. am ende wird für jeden Strich ein Kurzer bestellt der vom Strich inhabner bezahlt wird</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>62</id>
+        <name>Eintüten</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams in die Vollen. Team eins beginnt und die Punkte werden addiert bis es eine 5 oder Punpe gibt, dannach gibts keine Punkte und Team zwei ist dran. Man kann auch die Punkte eintüten dafür muss man nochmal Kegeln und die Zahl muss ungerade sein, Gelingt die nicht sind wie bei der 5 alle Punkte weg und die andere Mannschaft ist dran. Ziel ist es 50 Punkte zu bekommen</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>63</id>
+        <name>Kartbahn</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams abwechselnd in die Vollen. Ziel ist es Die Zahl auf der Stecke vor dem Kart zu erkegeln um ein Feld weiter zu dürfen(es kann auch abkürzungen geben) ;Malt euch selber eien Strecke.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>64</id>
+        <name>Sargspiel Die Drite</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Besser bekannt als Sargspiel, Die Rache der Sith Bei diesem Spiel wird eine zufällige Aufstellungen der tapferen Jedi benötigt. Am besten benutzt man den tollen Leiter Algorythums der geht immer. Die Bahn steht auf abraumen und jeder Jedi muss muss mit seiner MAcht mindestens einen Kegel treffen. Geschiht dies nicht gibts ein Teil vom Sarg, wessen Srag fertig ist überlebt den Angriff der Klokrieger (war Absicht ihr Affen!) nicht und scheidet aus. Der Letzte Jedi gewinnt mit ihm ist der Saft.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>65</id>
+        <name>1000</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder einzeln der Reihe nach in die Vollen. Die zahl des ersten Durchgangs landet an einer beliebigen stelle (1,2 oder 3) die ausgesucht werden darf. ob sie wirklich richtig steht seht ihr erst am ende des Spiels. in den nächsten zwei durchgängen weden die ergebnisse von Rechts nach Links eingetragen. Darrus entsteht eine dreistellige zahl und nach drei weiteren Runden hat man 2 dreistellige zahlen diese addiert man und subtrahiert 100 vom ergebniss .wesen betrag vom ergeniss  kleinsten ist, der darf sich behindert nennen, so wie der rest der Teilnehmer. Außerdem hat er das Spiel gewonnen. Eine Pumpe bedeutet Neuwahlen</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>66</id>
+        <name>HALT STOPP!!!</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Die Bahn steht auf Abräumen und jeder Psycho muss möglicht viele Punkte schaffen dafür muss er so lange kegeln bis er keine Kegel mehr trifft oder keine mehr da sind. Trifft er nix bekommt er seine Punkte, ansotzen kann er mit dem Befehl es ist obst im Haus seine Punkte sichern und den nächsten zur bahn vortreten lassen. Dabei gibt es einsprüche, von denne in zweifel immer der als erste gebrüllte bzw der lauteste gewinnt. im ersten wurf hat nur der nächste spieler diese möglichkeit und im zweiten die nachsten beiden und so weiter. Einsprüche sind(Nur wortwörtlcih gelten sonst ist Andreas sauer): HALT STOPP! (Nur gultig bei einer Dezibelzahl im deutlich dreistelligen berreich: min 120) sorgt für ein beeden und sichern der Punkte; Es Bleibt alles so Wie es hier is! sorgt für einen neustart des Versuchs; Jetzt kriegste gleich was auf die Schnautze! sorgt für ein spontanes 1vs1 wer die höhere Punktzahl hat bekommt die aktuellen Punkte gutgeschrieben; Das Bad mach ich so vie ich will! sorgt dafür das der versuch durch den Schreihals weitergeführt wird (natürlich kann es da wieder einsprüche geben); DU OBER äh ZICKE! sorgt für eine halbierung der Punkte.Jeder Einspruch kann nur einmal verwendet werden(Alle einsprüche nach es ist obst im haus sind ungültig) Außerdem kann ein Einspruch auch während eines vielversprechenden Wurfes fallen(der Wurf kommt natürlich noch durch und kann nicht abgebrochen werden) und wer nach 6 Runden die meisten Punkte hat gewinnt.  Er ist der Wahre Psycho Andreas. </beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>67</id>
+        <name>Spitzkopf</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Zum aufwärmen werfen alle in die Vollen und wer mehr als die zahl mitglieder*11 gekelt wird für den Rest seines Lebens Spitzkopf oder bwertend niecklaß (jede andere beleidingung geht auch) genannt. Wer gegen diese Regel verstößt bezahlt 50 Cent oder 1€. Dieses geld wird am ende des Abends sinnvoll investiert.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>68</id>
+        <name>Fleischtheke</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Es wird immer in die vollen gekegwlt und das in 2 Teams immer abwechselnd. Ziel des Spiels ist es 100kilo Flesich aus dem Marktkauf zu besorge. Zuerst weden 10 Kegel benötigt um das Telefon zu finden in den follgenden 5 würfen darf man nicht über 30 kommen, da man sonst seine gedult in der warteschleife verliert sein handy wegschmeißt und es erneut suchen muss. dannach benötigt man 20 Punkte im sitzen um bis zum marktkauf zu fahren.Die follgenden 15 kegel bringen einen zur fleischtheke wo man weggeschikt wird weil das fleisch nicht fertig ist weswegen man seinen einkauf erst einmal ohne weiterführt dafür werden 40 punkte benötigt, wer dafür mehr als 7 versuche braucht ist zu langsam, sein fleisch landet wieder im lager an der theke angekommen heißt es 4 runden warten und dabei nicht mehr als 24 punkte holen da man sonst wieder seinen geduldsfaden reißen hört was für ein erneutes anstehen nach 2 mal leerlauf sorgt. wer es schaft bekommt sein fleisch, wessen fleisch im lager ist, der muss nachmal 3 runden mit maximal 20 punkten warten und dies so lange wiederholenbis er es schafft. Ab jetzt habt ihr das fleisch in der starken hand also wird mit der schwache gekegelt. mit dem flesich unterm arm muss man 10 punkte bekommen um bis zur kasse zu kommen. danach wird eine genau eine sieben mit unendlich vielen versuchen benötigt um das passende geld zu finden. wer dies schafft braucht nur noch 11 Punkte um bis nach hause zu sprinten und zu gewinnen</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>69</id>
+        <name>nach Antalya</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Zweier Teams , einer Gibt Gas und einer Schaltet. Wir fahren natürlich nicht in die Türkei, sondern in den Dönnerladen keine 50meter entfernt. Zuerst muss angefahren werden, dafür muss zuerst ein gang eingelegt werden (1,2 =1.gang; 3,4=2.Gang usw.)danach wird die drehzahl bestimmt 1=1000,2=2000... wer bein anfahren nicht in gang 1,2,oder 3 ist würgt ab, wer in gang drei ist muss mindestens 7000 umdrehungen haben .nach dem anfahren gibt es ganz normal punkte, gang + drehzahl/1000 wer eine Pumpe macht schlatet in r wie Racing und schrottet sein getrieb, er stzt einmal aus und muss neu anfahren. wer abwürgt (gang 4,5 brauchen mindestens 5k umdrehungen) oder kein gas gibt muss neu anfahren aber nicht warten. nach 30 Punkten ist steffen beim dönerladen wer zwei runden hintereinnander 7k oder mehr umdrehungen hat zerstört ebenfalls das Getriebe. nun gehts ans einparken dafür eignen sich nur gang 1,2 oder drei mit weniger als 4tausend umdrehungen. wer die mauer rammt, weil zu viel gas, muss es nochmal neu versuchen. Gewinner ist das Team welches als erstes beim 50 meter entfernten dönnermann eingeparkt hat, er genießt den ruf des absoluten faulppelzes.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>70</id>
+        <name>MÖWE</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wie Bingo nur 4x4 macht euch selber teile dafür. und kauft schnapps für die gewinner. (Da es ein Spiel für alte Leute ist, muss druchgehend Schlager laufen!!!)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>71</id>
+        <name>Risiko</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder ballert in die Vollen und muss möglichichst viele Punkte schaffen, dabei ist nach einem Wurf aber nicht schluß. ER darf solange bis er nix trifft(das ist auch eine null, erich) oder das vorderholz umfällt, wenn das passiert ist der nächste dran und es gibt keine Punkte. Man darf aber selbst bestimmen, wann man aufhört  wer nach fünf runden die meisten Punkte hat gewinnt. </beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>72</id>
+        <name>Tod oder Leben</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Jeder würdige und mutiege Kegel-krieger bekommt eine zufällige Nummer und sobald die gekegelt wird MUSS er einen trinken. Das spiel endet sobald der schnaps alle ist oder niemand mehr steht. Zusätzlich gibt es einen joker bei dem man sich eine tolle zahl aussuchen kann(die 5 ist die einzig richtige) und es gibt eine Karte mit dem Titel Delirium bei der man zu seiner Nummmer auch noch einen großzugiegen schluck bier trinken MUSS! Ein super Spiel für jeden Kindergeburtstag </beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>73</id>
+        <name>Der Grinch</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Der Mösen Mexikaner klaut weihnachten und wirft 2mal in die Vollen, sein bestes ergebniss zählt. Die hälfte aufgerundet ist die anzahl an Handicaps die er verteilen darf. Dannach kommen die ersten 6 Weihnachtselfen zur bahn. in ihren sechs würfen mussen sie 24 punkte schaffe. der grinch kann ihenen aber mit den handicaps die tur vermiesßen zb muss einer mit der schwachen hand oder im Liegestütz kegeln (wie wärs mit nur auf einem bein um die betrunkenen zur pumpe zu zwingen?)schaffe es die weihnachtselfen bekommen sie einen punkt, wenn nicht bekommt carlos einen. dann beginnt es wieder von vorn mit unserem siegenden Grinch bis ein team x-Punkte hat und weihnachten rettet/klaut.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>74</id>
+        <name>Ich gegen mein Team</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Manschaften auf Abräumen. Es stehen sich immer zwei Kontrahenten der beiden Teams gegenüber sie entscheiden ob sie ehre oder spott für ihr team bringen. Sie spielen auf abräumen und weerfen abwechselnd. Räumt jemand ab bekommt das andere Team 3 minus punkte. trifft jemand nix bekommt sein Team die Anzahl der Kegel als minuspunkte und das andere Team hat nun die finale chance einen der übriegen kegel zu treffen und so einen minuspunkt pro kegel für das schandvolle team herbeizuführen. nach dem abraumen oder dem gnadenwur der beseren manschaft tritt das nächste würdiege paar an usw. sind alle paare durch wiederholt sich das ganze nur fangen diesmal die anderen an wie im ersten durchgang nach 2x runden gewinnt das Team mit den wenigsten Minuspunkten (meistens das ohne den Pumpenkönig, Redabol).</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>75</id>
+        <name>Nur nich die Pumpe</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>"Volles mett in die Vollen. in x Durchängen werden die ergenisse nebeineinader geschrieben und mit einem mal punkt verbunden. Hat jemand eine Pumpe beginnt er ab diesem wurf erneut. Beispiel: Guilliver wirft 2 , 7, 0 ,5, 5 damit hat er ein ergebniss von 25=5*5. Gewinner ist natürlich der mit den meisten GuilliverPunkten</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>76</id>
+        <name>Zahlenwechsel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Auf in die Vollen in 9 Durchängen wird versucht möglichst viele verschiedene Zahlen zu schmeißen. Hat man eine Zahl dopelt werden diese eingekreißt und bringen keine Punkte. hat man eine dreimal, weil man nix außer 5en kann so zählen die ersten beiden nicht und die dritte bringt minus punkte. bei einer vierten scheidet man aus, denn dan ist man anscheinend nicht in der lange das spiel zu spien. gewonne hat der mit den meisten punkten (addition, lateinisch für du musst plus machen)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>77</id>
+        <name>Arche Spakko</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Jeder kegelt in die vollen eine Zahl um seine Tiergruppe zu bestimmen sodass jeder zu einer gruppe gehört. dabei ist es wichtig das alle tiere möglichst iun eriner geraden anzahl da sind und wenn eine tiergruppe 3 leute hat ist schluss. dannach stellt man fest das es kein gyros auf der arche gibt also hilft nur eins, die tiereessen sich gegenseitig. dafür trtten immer twei tierarten gegeneinader an und jeder kegelt in die olen . die gruppe mit der höheren gesamtpunktzahl isst die andere gruppe auf. wer 2 tiere hat darf 4 mal kegeln alle anderen 1 bzw 3 mal . am ende gewinnt die letzte überlebnende rasse.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>78</id>
+        <name>Ik näm di Numa drai</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>"Alle in die Vollen der Reihen nach. die Ergebnisse werden aufgeschieben und wer eine zahl zum dritten mal insgesammt hat scheidet aus bis nur noch einer übrig ist</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>79</id>
+        <name>Russisches Roulett</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Alle in die Vollen und wobei 0,1=1 2,3=2 4,5=3 6,7=4 8,9=5 damit bestimmt man welche kammer des revolvers man abdrückt. Die Kammer wird durch ein random zahlenschnibsel bestimmt. nachdem alle durch sind wird gezeigt wer die flasche kammer hat und tot ist. danach wird eine neue kammer bestimmt bis nur noch einer lebt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>80</id>
+        <name>Euro-Norm 6</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Die Kegler haben einen Neuen job undzwar auf der baustelle von stuttgart21, dieser job hat zukunft also ab nach stuttgart. dafür muss man erstmal nach stuttgart, in die umwltzone, mit dem auto, welches leider ein VW diesel ist, wer zu auffälig fäht wird von der polizei angehalten. wer dreimal angehalten wird verlierth den FÜHRERschein da er mit seiner drecksschleuder nicht in stuttgart fahren darf. und muss buss fahren. natürlich fährt man schwarz und wer zu oft erwischt wird gibt ne runde.  das geht so weiter bis stuttgart21 fertig ist.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>81</id>
+        <name>Kegeln mit Inklusion</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Am anfang des schönenn keglertages werden einmal hohe und einmal niedrige Hausnummer gespielt der verlierer von hohe bekommt die starke Hand an den schwachen arm gePANZERtapt und der Verlierer von niedrige bekommt die beine zusammen getapt. so wird den rest des lieben langen tags weitergekegelt, mit Behinderung für die beiden eben. (Wer bereits eine Behinderung hat ist nicht davon ausgeschlossen eine zweite zu bekommen und auch behinderte menschen müssen an diesem spiel teilnehmen)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>82</id>
+        <name>Sackhüpfen</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Sackrennen wie man es sich vorstellt, immer zwie leute in einem blauen(die farbe ist wichtig) sack die zusammen versuchen, dass rennen zu gewinnen. zweierTeams in die Vollen. Beide Teammitglieder müssen einzeln bis 25 kommen. dabei werden ihre einzeln punkte addiert und dürfen nie zu weit auseinander sein. ist der abstand zwischen den beiden 4 oder größer fligt man auf die nase und muss erstmal aussezten (beide stzen aus, da beide hinfallen den sie sind in einem sack) ist die ditsnaz zwischen den beiden 7 oder mehr reißt der sack und beide laufen zurück zum start und fangen von vorne mit einem neuen sack an.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>83</id>
+        <name>Zigeunergeschichten</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Geschichten ausm Zigeuner-Garten. Jeder erzählt eine rassistische Geschichte bei der es wichtig ist, wie oft er Zigeuener als Wort erwähnt. in die vollen natürlich(nicht auf Wicklaß werfen sonder dei Kegel). Jeder erzählt 5 geschichten und muss dabei mindesetens 5 mal zugeuner sagen, wir sind ja nicht im kindergarten, wer aber 8mal oder öfters zigeuner sagt, der ist ein scheiß Rassist, das geht zu weit, den wollen wir hier nicht haben. wer keine einwandfreie geschichte abliefert muss gehn und am ende gewinnt der letzte, der übrig ist von den zigeunern. Wichtige regel wer den arsch spaltet sagt Neger und das zählt auch als gute geschichte.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>84</id>
+        <name>Plumpssack</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wie plumpssack. in die Vollen und einer ist der plumpssack zu beginn. der sucht sich mi einen wurf seinen Kontrahenten aus, sein ergbniss in der liste nach unten gehn und schon hat er sein opfer. dacnach mussen beide in beliebig vielen würfen die der plumbssack bestimmt an die anzahl der mitspielerin gefallenenn holz  kommen. der gewinner ist der neue plumpssack und der andere ist raus. bei gleichstand verliert der ampitierenede plumpssack. wer eine pumpe macht legt sich aufs maul und verliert. der Letzte der übrig ist gewinnt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>85</id>
+        <name>Vünwunzwanzich</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder der Reihe nach in die Vollen. Ziehl des Spiel ist es Punkte zu sammeln und alle ergebnisse werden addiert. wer den jewails 25. kegel umschmeißt kriegt punkte nach follgendem muster. Kegel 25 gibt einen Punkt, Kegel 50 gibt zwei Punkte ... Kegel 250 Gibt 10 Punkte. WEr nach 250 Holz die meisten Punkte hat gewinnt, aber achtung: wer genau den 25. umschmeißt gibt die Punkte an seinen Vorderman ab, man benötigt also immer einen mehr. bei einer Pumpe im nihct gefährlichen bereich also mehr als neun von der nächsten 25 weg gibt es einen wiederholwurf bis er trifft. im gefählichen bereich natürlcih nich.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>86</id>
+        <name>Nur die 9 zählt</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams in die Vollen. Vom ersten Team beginnen zwei wurdige Kegler, die zusammen in ihren beiden Würfen neun Holz umfallen lassen müssen, oder eine Schnappszahl (Variante: wenn Schnapps da ist muss getrunken werden von den beiden) also beide die selbe zahl. Gelingt dies bekommt das Team einen Punkt (doppel Pumpe is nicht) Das Team welches als erstes 7 Punkpe hat gewinnt, nachzug ist möglich un dann gibts stechen von jewails zwei ausgesuchten mitspielern beider teams.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>87</id>
+        <name>Datumskegeln</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>zweier team, die in die vollen werfen und versuchen das aktuelle datum zu stellen. beispielsweise ist heute der 20. April 1889, damit bracuht jedes Team eine 2;0;4:1;8;8;9 (Alternativ konnen auch nullen und der anfang der Jahrtausends weggelassen werden)das Team welches dies als letztes schaft kann keinen Kalender lesen und verliert.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>88</id>
+        <name>5-er Spiel</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Während andere Spiele gespielt werden zahlt jede fünf. dabei bestellt die Kasse 11 Bier und dan gehts rund bei jeder fünf: 1.=Ein Bier exen; 2.=Gegenüber ext; 3.=Ein Spieler deiner Whal ext; 4.=Zwei Plätze weiter rechts ext; 5.=Du ext im doppel mit jemand anderem; 6.=Der nächste im Alphabet ext (Kegelname); 7.=ex und weg; 8.=Beidhändig, also 2 weg; 9.=Demokratisch bekommt der letzte eins; Gewonnen hat der Vollste (Wiecklaß gewinnt bei stechen)</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>89</id>
+        <name>Tunier</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Tuniermodus mit KO system und geld aus der kasse (Ein benefiztunier mithilfe eines großzügigen spenders ist auch möglich), so gut es geht, manche machen erst ab runde zwei mit. Beide Kotntahenten werfen einmal in die Vollen und der mit mehr punkten kommt weiter, wiederholung bei unentschieden. Der sieger ist der beste kegler des Vereins und bekommt zwei größe bier, eins für den verein und eins für sich. Das eine für den Verein muss auf der stelle weggezogen werden.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>90</id>
+        <name>Vier gewinnt</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Team rot gegen team gelb abwechselnd und jewails in die vollen. die Spaten vom Vier gewinnt spiel, was jeder kennt, werden mit zahlen von 2-8 beschriftet. es gibt demnach 7 spalten. je nach erkegelter zahl bekommt das team einen chip seiner farbe in die spalte. Gewinner ist das team mit vieren/dreien in einer reihe. Die zahlen dürfen auch gerne zufällig von einem affen aufgeschrieben werden.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>91</id>
+        <name>Besuch im Knast</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Marius ist kriminell und muss gestoppt werden. zuerst muss marius sich für ein Tatoo entschieden dafür kegelt er entweder etwas gerades(Handschellen) oder etwas ungerades(Fußfessel). Dannach versucht er nach Solingen zu flüchten, dafür braucht er 42653 in der reihenfolge erkegelt, wobei eine pumpe ihn zurücksetzt. Währenddesen muss der rest( die beamten) auch die plz erkegeln aber ohne die reihenfolge um vor ihm in solingen zu sein und den rabauken zu schnappen. Schafft er es nicht lanndet er im gefängnisbus wo er mit ein paar meter abstand mehr erkegln muss als das anwesende wachpersonal, die muss ihm 7 mal gelingen um zu entkommen. er hat solange zeit bis der rest im bus über 66 punkte kommt sont bekommt er handschellen oder eine fußfessel und darf so den rest des abends kegeln.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>92</id>
+        <name>Großes Schnappsglas</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams, die zu ehren unseres großen Spenders in die vollen kegeln. Jedes Team bekommt ein großes Schnappsglas aufgemalt, welches mit 35% äh Kegeln gefüllt werden muss. Beide Teams kegeln abwechselnd und wer als erstes 35 bis maximal 40 erreicht bekommt einen Punkt und ext nun sein Schnappsglas es gibt auch nachziehen und bei Unentschieden gewinnt der mit den meisten Prozent (vorausgesetzt es ist unter 40) bei absolut gleichen zahlen trinken beide Teams aber niemand bekommt einen Punkt. Wer über 40% landet übertreibt maßlos und muss die Brühe neu mischen. Das Team welches (je nachdem wie viel Schnapps da ist) 7 Punkte hat gewinnt. Für Wiecklaß: Sollte jemand nach der Beschreibung fragen, obwohl dieses Spiel von einem Spiel der Website myhandicap.de abgekupfert ist und komplett easy ist, weil er/sie/es zu dumm ist und oder nicht zuhört, steh auf, kipp dir ein großzügiges Glas Hochprozentiges pur ein, ex es weg, schrei laut: “Was ist das denn schon wieder für eine Scheiße“, hau auf den Tisch, setz dich wieder hin und frag freundlich: „Was sagtest du?“. Bei Bedarf bitte beliebig oft wiederholen, bis der Part mit dem Aufstehen oder Reden nichtmehr klappt.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>93</id>
+        <name>Die geheime Regel</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Heute Abend gibt es eine geheime Regel, da Marius blecht kann man das gut mit seinem Schnapps in Verbindung bringen. Du sagst niemandem die Regel und sobald sie jemand herausfindet trinkst du dir einen und sagst es sei falsch (am besten sagst du es ist viel komplizierter als du denkst, man muss Mathe studieren um das zu verstehen). Die Regel lautet, falls erstmal nix Besseres einfällt: Sobald eine Schnappszahl auf der Anzeigentafel steht müssen alle trinken. Das zählt für alles auf der Anzeigetafel (Wurf Anzahl und Gesammtpunkte) Außerdem zählt nur was die Anzeige sagt, beispielsweise 1333 zeigt die Anzeige als 333 an, also trinken. Wenn das ganze zum Trinken kommt rufst du einmal das jetzt alle trinken müssen und auch du erhebst dein Glas (wag es ja nicht zu fahren). Sag am besten einmal vorher das dieses spiel die geheime Regel stattfindet und falls mal absolute ebbe ist, oder du einfach Durst hast ruf einfach laut das alle trinken müssen, es weiß ja sowieso niemand wann außer du. Nach dem Kegeln kannst du den spaß natürlich auflösen.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>94</id>
+        <name>Ich hock in meinem Bunker</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder gegen jeden in die Vollen (nicht Wiecklaß abwerfen). Jeder hat fünf Wurf um seinen Führerbunker aufzubauen. Der erste Wurf stellt das Fundament des Bunkers und der letzte Wurf das Dach da. Eine Pumpe/Errich ist eine Null als Schicht. Hat jeder seinen Bunker gebaut wird darin gehockt bis zum bitteren Ende und es geht jeder an die Kanone um die anderen zu zerstören, dabei wirft jeder der Reihe nach in die Vollen. Bei einer Pumpe verliert nur der eigene Bunker eine Schicht und bei Allen anderen Ergebnissen verlieren die Bunker eine Schicht mit einer niedrigeren (gleich reicht nich) Zahl als der Wurf. (Beispielsweise hat Winston einen 50326 Bunker mit der 6 ganz oben, Sobald jemand eine 7 oder mehr macht verliert England seine Decke und sein Bunker sieht so aus 5032) Beim Schießen kann man seinen eigenen Bunker und die Bunker seiner beiden Nachbarn auf der Tafel nicht Treffen. Wer keine Schichten mehr hat kapituliert und wer als letztes noch drei Meter Stahlbeton oder ein Fundament hat hält nix von Kapitulation und gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>95</id>
+        <name>Kegel Mau</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder in die Vollen der Reihe nach. Nils beginnt und dann die Tafel runter. Jeder startet mit 5 Blanko-Karten und wenn man wirft und etwas fällt verliert man eine Karte. Die Anzahl der Kegel bestimmt was fancyges was passiert: Pumpe = Man verliert keine Karte und bekommt drei Blanko-Karten mehr; Zwischen die Kegel = Keine Karte weniger und nächste Runde setzt Errich aus um über seine Handlungen nachzudenken; 1= Alle außer der Werfer ziehen eine und der Werfer darf nochmal; 2= Der Vorgänger bekommt zwei ohne Gegenlegen; 3= nix ; 4= man darf nochmal ; 5= Wechselt die Richtung in der Gespielt wird (Liste rauf oder runter); 6= Der nächste zieht eine mit gegenlegen; 7= Der nächste in der Liste zieht 2, er hat aber die Chance auch eine sieben zu machen damit der danach 4 zieht und er nix (geht bis ins unendliche); 8= Aussetzten mit Gegenlegen (wie bei 7); 9= Man verliert drei Karten und der nächste in der Liste zieht 5 ohne Gegenlegen/Counterplay. Wer aus irgendeinem Grund, nach der Möglichkeit gegenzulegen, eine oder mehr Karten ziehen muss darf nichts Legen und der Nächste ist dran. Falls das Spiel zu lange dauert einfach jedem ein paar Karten wegnehmen oder jeder Kegelt pro Karte einmal und der mit der Kleinsten Gesamtsumme gewinnt (Pumpe ist neun). Wer nur noch eine Karte hat muss vor seinem Wurf 'Letzter Kegel' und falls nicht ist der Wurf ungültig und der nächste ist dran.(Eine Pumpe wäre trotzdem gültig). Gewonnen hat derjenig der keine Karten mehr hat.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>96</id>
+        <name>Oma Kegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Alle in die Vollen , aber beidhändig, vier mal vorwärts 4 mal rückwärts. Wenn Hilde nur ne Pumpe oder eins macht darf sie nochmla, sie steht ja einmal. gleiches gilt bei einer 4 und 5. 7 und 8 können nur geschummelt sein und werden zu null. Bei ner 9 müssen wir Hildegard eine behinderung geben, die is zu fit, alles zählt ab nu nur noch halb so viel mit abrunden. Gewinner ist immer Birgitt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>97</id>
+        <name>Torwandschießen</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder hat sechs versuche die Torwand dreimal rechts und dreimal links zu treffen. Dafür werden die Kegel entsprechend augestellt und man darf die Torwand ninct demolieren also sollte man keinen Kegel treffen , sonst gibts ärgerund keinen treffer. der mit den meisten treffern gewinnt, bei gleichstand entsscheidet wer weniger demoliert hat.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>98</id>
+        <name>Kegel Stechen</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Eine drei mal 5 Bierdose wird für jedes Team augemalt und ziel es ist mit den getroffenen zahlen einenn Riss in die dose zu stechen dafür brauch m,an drei zahlen in einer Reihe . Nach dem anstechen hat man 6 fehlversuche(nichts getroffen) bis die dose ausläuft und man von vorne beginnen muss. Das team was all ersts ein six-pack dosen aufgestochen hat gewinnt. wer aus gründen einen 4er riss in die Dose macht befinnt von neuem, da niemand so ein großes maul hat und die hälte daneben geht!</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>99</id>
+        <name>Numma 1</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Numern mit den Kegeln aufstellen und dann gibt Punkte fürs umwerfen. WEr alle Trifft kriget Bonnus</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>100</id>
+        <name>Schnappspil</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>by Wiecklaß Denemark (wie Pfennig) Kegeln trinken, kegeln trinken, kegeln trinken... Würfeln nicht vergessen. Bis einer ne sechs hat und dan schnell trinken und kegeln bis die anderen auch eine ahben</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>101</id>
+        <name>101 Schnappes</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Sobald mehr als hundert, zweihundert, dreihundert usw. Kegel gefallen sind kippt man sich einen schnapps hinter die Birne</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>102</id>
+        <name>Würfelspiel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder in die Vollen , aber bevor man wirft wird gewürfelt. mit zwei würfeln und man sucht sich nach dem werfen einen oder beide Würfel aus, das ergebiniss muss erkegelt werden. wer es schafftt krigt einen Punkt. bis 6 punkte oder x-runden</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>103</id>
+        <name>Kegelmutti</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wer wird die beste Kegelmutti, hier das undemokratische Spiel dazu, viel besser asl demokratie. Einer der Anwesenden ist Kegelmutti und wirft in die Vollen und bestikmmt damit ein Datum für das nachste Kegeln, dannach wirft er nochmals um eine Toleranz fürs spät oder früh sein fewstlegt (0-1=0 Tollerranz; 2-5=1er Tolleranz; 6-8=2er Tolleranz; 9=Alles außer Pumpen sind dabei) Dannach kommen die Teilnehmer und versuchen beim Kegeln mitzumachen, dafür mussen sie die erste Zahl der Mutti treffen, Treffen sie genau gibt es zwei Punkte für den Kegler, liegt es innerhalb der Tolleranz gibt es einen Punkt für den Kegler. Die Mutti bekommt für jeden anwesenden einen Punkt, außer es sind weniger als 50%(ohne Kegelmutti) da, dann hat er ein mist datum gewählt bekommt nix  und der nächste wird Kegelmutti Sobald jeder einmal Mutti war ist das Spiel vorbei. Wer als Datum eine Pumpe wift hat einen zweiten versuch und bei der zweiten Pumpe wird der nächste mutti (zweite Pumpe als mutti insgesammt, fals er mehrmals mutti sein darf da genug da sind). Nachdem die Mutti das datum und die Toleranz erkegelt hat, hat er die möglichkeit auch zu erscheinen, wenn er es schafttt bekommt er einen punkt, bei scheitern verliert er seinen status als mutti und er nachste ist dran. (Pumpe liegt niemals in der Toleranz)</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>104</id>
+        <name>Kegel-Liste</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es gibt eine Liste mit Begriffen, beispielsweise Bundesliga Vereine, die man alle nennen muss. Es beginnt einer und Kegelt, dannach neennt er einen Listeneintrag Stimmt er bekommt er pro gefallenenn Kegel einen Punkt , ist es Falsch gibt es nix. Immer in die Vollen bis die Liste ende istoder man aufgören müchte. es wäre gut wenn jeder gleich oft dran wäre.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>105</id>
+        <name>Frau Horst</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wiecklaß ist Frau Horst und darf nurnoch mit diesem name oder Sie angesprochen werde, er legt ein Wort fest, welches nichtmehr ausgesprochen werden darf, kegelt jemand eine 0,9,5 und danach eine zweite wird er Ftau Horst und bestimmt seine eigene Regel. Wen jemand eine 7 Kgelet trinkt der Rechte Nachbar, bei einer 3 der Linke. WEr eine Regel bricht trinkt auch. Besonderes: Frau Horst oder Sie ist Ansprache vom großen Führer, sachen werden nicht direkt übergebn, höchstens in die richtung geschoben,er hat... gesagt fürt zu trinken,trinken darf ncht ausgesprochen werden gramatikformen sind keine nuenn wörter. wer gegen eine Regel verstößt trinkt, äh säuft, by Wiecklaß</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>106</id>
+        <name>Ein belegtes Brot mit Schinken</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Ein belegtes Brot mit Ei muss belegt werden, dafür Kegeln alle in die Vollen. eine 2,4 oder 7 sorgt für eine scheibe brot, 3,6 und 8 für Belag.bi einer 5 fällt das Brot vom Brett eine 1 oder 9 sorgen für senfwer sein brot abgeben will kann dafür Punkte kassieren, Brot Belag Brot sorgt für einen Punkt und jedes bisschen senf macht einen punkt mehr ein doppeltes, dreifaches, quadrupple... sorgt für +2 Punkte brot auf brot ist verboten aber belag auf belag geht voll klar gewonnen hat der mit den meisten Punkten nach x runden</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>107</id>
+        <name>28, Tod!</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder in die Vollen, Punkte werden addiert. sobald insgesammt mehr als 28 (oder 28) erziehlt trinkt er einne , am besten ein kleines bier.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>108</id>
+        <name>falscher 5er</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>zehn wurf, 5 in die vollen und 5 auf abbräumen, wer unter 50 kommt ist ein flascher 5 er und verliert .punkte werden addiert und die meisten gewinnen</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>109</id>
+        <name>7 muss es sein</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>An der Tafel werden spalten von 1-9 nummeriert, danch müssen diese gefüllt werden durch würfe in die Vollen mit positiosnswahl wie bie hohe hausnummer, ergenis von spalte 1 zahlt einfach, 2 zweifach... aber bei der sieben darf nur eine sieben sehenen und eine sieben in jeder anderen spalte bringt automatisch doppelte punkte, beispiel: sieben in spatlte 2 sind 3*7*2 punkte. Gewinner ist der mit den meisten punkten</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>110</id>
+        <name>Kegelkrieg</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Alle in die Vollen und  das ganze abwechselnd von beiden Teams. Es Kehgeln immer zwei gegeneinander , das niedrigste ergeniss wird gestrichen bei stechen kriegt keiner was. nach x durchgängen gewinnt das Team mit den meisten Punkten.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>111</id>
+        <name>An oder Aus?</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Es werden Muster von zahlne angemalt und beide Teams kegeln abwechselnd in die Vollen. wer eine zahl trifft wird diese gestrichen und wird sie nochmal getroffen wieder hingeschrieben. wer alles weg hat gewinnt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>112</id>
+        <name>Tetris</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Nicht verzagen, Carlroß fragen</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>113</id>
+        <name>Nur für Dich</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder started einmal die runde und wirft in die vollen, dabei muss er seine Hasszahl erkegeln mit der eine eine zone deklariert, 1 2 3,4,5,6,7,8 9 Der Rest der Kegler muss nun versuchen in der zone zu landen und bekommt dann seine Punkte für jeden kegel.trifft er etwas anderes bekommt der hasszahl typ alle punkte. bei einer punkte passiert natürlich nichts und keiner bekommt punkte. gewonnen hat der mit dem meisten punkten wenn jeder einml anfangen durfte</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>114</id>
+        <name>Todes-Zahl</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Jeder  zieht einenen zettel und bestimmt damit seinen nächsten zug, trifft er die genannte zahl nicht gibt es die differenz als minus, trifft er sie gibt es ein kliens blondes und pluspunlte</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>115</id>
+        <name>Getränkekarte</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Alle 100Punkte auf der Anzeige wird eine Karte gezogen, Bube=Wandseite trinkt, Dame=Tafelseite trinkt,König=Alle trinken,Ass=der Der die hundert übertroffen hat trinkt. Bei assen: bei herz trinken er und ein auserwählter, bei kreuz gibts zwei, bei karo muss man geegn sein Gegenüber am tisch um den schanpps kegeln, bei piech muss der schnapps in Bier, eine Siebn ist wie ein Ass.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>116</id>
+        <name>Keine Punkte</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es werden in die Vollen Gekeglt, und es giubt immer punkte, sobald die fünf einmal fäät jibt es nurnoch vier punkte für die fünf undsowieter, die gilt für alle zahlen, sobald eine zahl bei null ist rutscht eine neue nach, wenn alle durch sind ist vorbei</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>117</id>
+        <name>Tortenkegeln</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es werden die Zahlne von eins bis acht in eine Torte geschrieben, und mann muss diese in die Vollen treffen. trifft man die 5 ist das stück mit der fünf weg, bekommt man kein stück kuchen in einer runde ist ende. bei nur noch 3 übrigen stücken gibt es eine neue Torte. wer als letztes noch Kuchen frisst gewinnt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>118</id>
+        <name>Der Bauer muss weg</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es wird in die Vollen geworfen und es gibt nur für bauern punkte, falleb beide gibt es 3 punkte, fällt alle gibt es fünf , fällt nur ein bauer und sonst nix gibt es 2 und bei einem bauer mit anderen kegeln nur einen. fallen keine bauern aber andere kegel gibt es -1 punkt wenn es lediglich drei andere Kegel waren, sonst -3. für nix gibts nix</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>119</id>
+        <name>Bingo</name>
+        <kategorie>Bonus</kategorie>
+        <beschreibung>Wie Bingo mit dem Dicken auf NDR</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>120</id>
+        <name>Resteverwertung</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>immer abwechselnd in die vollen. Spieler eins isst so viele der neun stück pizza wie möglich und bekommt dafür punkte. Spieler zwei kann die restliche pizza aus dem Müll essen, frisst der mehr als da ist, isst er scheisse aus dem Container und bekommt nix.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>121</id>
+        <name>Eisenahner</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Tod und Hass. Dieses Google-Aids schient das Spiel nicht zu mögen und speichert die Beschreibung nicht außer den tollen Anfang: Die Lebensader der Fresskultur zwischen Paderborn und Essen Kray muss aufgebaut werden...</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>122</id>
+        <name>5 is doof</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams in die Vollen alle Punkte werden Addiert, sobald eine fünf kommt wird man auf null zurückgestzt im jewailigen Durchgang (einmal alle durch) nach dem Durchgang sind die Punkte sicher.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>123</id>
+        <name>Geschenke ausloten</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>By Wiecklaß Mark wie Pfennig und Errich Zwegat. Ein tolles Spiel um zu betsimmen, wer welches Wichtelgeschenk an Weihnachten bekommt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>124</id>
+        <name>Box bauen</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder hat fünf versuche in die vollen um mit 13m für länge breite und höhe insegammt eine Box mit großem Volumen zu bauen. Dabbei muss erst angesagt werden, was man wirft.man kann dabei alte längen überschriebn und korrigieren. oder ienfach aus sßaß werfen. optimal ist dabei das ergeniss 4*4*5=80. wer zuviel material benutzt, macht nix. Großtest Volumen gewinnt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>125</id>
+        <name>Ich packe Kegel</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Zwei Teams abwechselnd in die Vollen. Das Spiel läuft wie ich packe meinen Koffer, wobei man eine sequenz aus Kegeln nachmachen muss. Hierbei reicht es +/-2 am Ergebniss zu sein. Das Ganze ist best of Seven und ja, eine Pumpe muss nachgemacht werden mit einer Pumpe, hierbie zählt die +/-2 Regel nicht</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>126</id>
+        <name>Teilerspiel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Alle in die Vollen der REihe nach, der Kegler muss immmer versuchen einen Teiler oder ein Vielfaches der Zahl vom Vordermann zu erreichen. SChafft er es nicht gibt es einen Strich (Eine Pumpe gibt sofort zwei striche). Bei einer neun gibt es nie einen Strich</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>127</id>
+        <name>Trumpf</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Immer in die Vollen, ein Durchgang besteht aus sovielen runden wie spieler jede runde wird von einem spieler der reihe nach angefangen. zu beginn jeder Runde wird die trumpf zahl festgelegt, danach ist der spieler dran, der genausoviele plätze weiter weg ist wie das was gekegelt wurde. er muss nun entweder trumpf werfen oder es überbieten . gelingt die ist der spieler dran der soviele plätze wie das geworfene weiter sitzt dran und die zu Überbietene zahl wird eins größer, trumpf bleibt aber gleich. gelingt es nicht gibt es einen strich und am ende verliert der mit den meisten strichen. Beispielsweise ist 5 trumpf und der 5 plätze weiter ist dran (er braucht 5 oder etwas größeres)und macht eine 8, dann ist derjeniege 8 plätze weiter dran und braucht entweder trumpf(5) oder 7 und höher. schafft das der nachste musste man eine 5 oder 8 und höher schaffen usw. Ja es kann vorkommen das man mit sich selbst spielt, beispielsweise ist bei 6 spielern eine 6 nicht so toll. Es gibt noch die tolle regel das man schieben kann, beispielsweise braucht man eine 7 oder höher und macht nur 6, dann kann man die aufgabe an denjeniegen 6 pläzue weiter schieben (die geht aber nur 3 mal im ganzen spiel pro spieler). bei einer Pumpe im anfangen ist null trumpf und man ist selbst nochmal dran und muss es überbeiten, wer danach eine pumpe wirft kriegt seinen strich außer er schiebt(in dem falnatürlich auf sich selbst) da es keine null ist. MAn muss hier sehr aufpassen wann man die Kugel schmeißen muss und vorallem bei wenig spielern ist es ein tolles speil :Pinguin:</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>128</id>
+        <name>Der Schwarze Mann</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Ziel des Spiels ist es möglichst viele Punkte zu bekommen. Jede Runde beginnt damit, dass jeder spieler der Reihe nach sagt, wieviele stiche er glaubt das er gewinnt. Dabei egth es in der ersten Runde nur um einen und in der zweiten um zwei stiche usw. Am ende einer Runde sollte man genauso viele stiche haben wie vohergesagt. Stimmt das ergebniss gibt es 2 Punkte plus einen Punkt pro stich. Liegt man falsch gibt es die diffeerenz als minus. Ähnlich wie bei Poker werden die Anfangsrollen weitergegeben von runde zu runde, es otiert also wer erst seinen Stich ansagt und wer beginnt zu kegeln am beginn der Runde. Nach einem Stich beginnt übrigens immer der Gewinner des Letzten Stichs. Eine Pumpe ist immer ein minus Punkt. Bonus: zusätzlich zu der möglichkeit die Anzahl der stiche zu sagen, kann man auch der Schwarze Mann werden(Dies kann jede Runde nur einer) Sein ziel ist es dafür zu sorgen, dass möglichst viele Spieler mehr Stiche bekommen als Vohergesagt, er startet die Runde mit minus drei Punkten und bekommt für jeden Stich den jemand zu viel hat einen Pluspunkt. Seine eigenen Stiche sind irrelevant. Man kann den Scharzen/Mexikaner auch weglassen. Gut Wurf</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>129</id>
+        <name>Zufallszahl</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder für sich und in die Vollen. Jede Runde werden Zettel gezogen und mann muss versuchen, die Zahl auf dem Zettel zu kegeln, man weiß aber noch nicht was auf dem Zettel steht, das wird erst am ende der Runde gezeigt. In der ersten Runde werden 3 Zettel gewählt, dann 2 und ab dann immer nur einer, sodass es bei neun Zeteln mit jeder Zahl von 1 bis 9 zu 6 runden kommt. Kegelt man eine Richtiege zahl gibt es nicht nur Punkte, sondern auch einnen Marrius. </beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>130</id>
+        <name>Zahlenstrahl</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Sobald eine Zahl im Laufe des Abends das erste mal fällt trinkt man einne Kurzen. Auch wenn die null das erste mal kommt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>131</id>
+        <name>Der Nächste</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Einfach in die Vollen, es gibt punkte für jeden Kegel der fällt. Allerdings wird nicht der Reihe nach gekeglt, sondern es begnnt der Pumpenkönig und danach ist derjeniege dran, der genausoviele Listenplätze weitersitzt, wie die Punktzahl des Königs usw. Wenn es langweilig wird, gibt es noch zehn Würfe und dann ist ende. Man kann natürlich 2 mal hintereinanderwerfen, ganz einfach indem man eine null Pumpe oder eine Anzahl der Spieler wirft.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>132</id>
+        <name>Keipenwirtschaft</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>2 oder auch 3,4 Teams die jeder eine Kneipe sind. In jeder Kneipe kostet das Bier 1€, noch. Nun ist es an der Zeit eine Preiserhöhung zu diskutieren, Dafür wirft jeder in die Vollen und gibt so eine Stimme ab. hierbei ist das ergebniss die Preiserhöhung in 10Cent. Die Zahl mit den meisten Stimmen bestimmt den Bierpreis fürs Wochenende bei gleichstand wird immer die höhere Zahl genommen. bei einer Pumpe muss man nochmal ran. Nachdem jede Kneipe einen Neuen Bierpreis hat kommen die gäste. aber natürlich nur in die Kniepe mit dem kleinsten preis bei gleichstand in beide. alle 4 runden kommt noch ein Kegelclub, der zu dumm ist um die Preise zu vergleichen. jede Kneipe bekommt dabei den Bierpresi gutgeschrieben. Wer nach x Wochen am meisten eingenommen hat gewinnt.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>133</id>
+        <name>Schätz mal</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Jeder schreibt auf seinen Deckel(Rückseite) wie viele 5en er glaubt falen in den nächsten 60min . Wer am nächsten dran ist gewinnt bei gleichstand gewinnen mehrere und bekommen bier schnapps geld und ein bisschen crystel. Die 5en werden dabei an der Tafel gezählt. jeder der eine macht muss einen strich machen. wenn er es vergisst und keiner sacht was ist es eben so . am ende zählt nur die Tafel</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>134</id>
+        <name>Gossenkönig</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder in die Vollen, meiste Punkte gewinnt. Jeder Kegel gibt einen Punkt . Fällt der König zahlt der Wurf Doppelt. Spaltet einer den Arsch gibt es 16 Punkte</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>135</id>
+        <name>Ampel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jemand beginnt und legt mit seinem Wurf fest, wie viele Sekunden die Ampel grün bleibt. Dazu gibt es noch 3 Sekunden gelb. Für jedes Auto was durchkommt kriegt der Zeit steller einen Punkt. Die Kegler nach ihm sind die Autos. jeder der es über grün schafftt kriegt einen Punkt und bei gelb nix und wer über rot fährt verliert einen Punkt. Jeder wurf wird also addiert bis die Ampel rot ist. Dannach stellt der nach dem Verkehrsünder eine neue Ampelphase ein.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>136</id>
+        <name>Heiße Kugel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Der erste in der Liste ist Spielmeister für die Runde, er sucht sich eine Zhl zwischen 1 und 9 aus und eine weitere die ungefähr im Berreich Kegler mal sechs liegt. Die größere Zahl bestimmt den Teimer der heißen Kugel und die kleinere ist ein Freiwurf, also die Zahl zählt null. Nun werfen die restlichenKegler in die Volen und ihre Punkte werden addiert, bei wem die Punktzahl zu hoch ist, der explodiert. Die Kegler wissen die Zahlen nicht und kriegen nur eine Warnung, wenn der Teimer unter Zehn fällt. Der verlierer der Runde bekommt einen Strich und ist Spielmeister für die nächste Runde. Es wird hierbei nicht nach Liste gespielt sondern es ist immer die Person x plätze weiter dran, je nach Wurf.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>137</id>
+        <name>Volleyball</name>
+        <kategorie>duoq</kategorie>
+        <beschreibung>Immer zu dritt ein Team und dabei jeder in die Vollen. Ein Team beginnt mit einem möglichst niedrigen Aufschlag. Dannach muss Spieler 1, hier Aids, einen möglichst niedrigen Wurf, kleiner oder gleich dem letzen Wurf machen. Dann kommt Spieler 2, hier Embolo. Embolo muss etwas echt höheres als Aids schaffen um so den Ball zu stellen. Dabei gilt je höher desto besser. Schafft er das kommt Spieler 3, hier Embolo Aids, und muss etwas echt niedrigeres als Embollo schaffen. Dabei ist niedriger besser für Embollo Aids, denn das nächste Team muss seinne Wurf wieder unterbieten. Das geht so lange bis der Ball runterfällt, dann gibt es einen Punkt. Das Spiel kann beliebig im Tuniermodus oder Ligamodus gespielt werden. Ahoy</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>138</id>
+        <name>Fang den Stier</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Jemand der besonders zufällig kegelt wird der Stier. Dieser Kegelt und sein Ergebniss wird mal 3 genommen. Das ist die Zeit die die Kegler haben um sich im zu nähern. Nun kegeln beide Teams abwechselnd in die Vollen und die Teams addieren jewails ihre Ergebnisse. Dabei dürfen sie die Zahl vom Stier nicht übertreffen. Tun sie das müssen sie zurück zum Start. Ein Team kann immer aufhören. tun das beide Teams, dann wirft der Stier wieder und es geht mit der neuen Zahl weiter. Sollte ein Team genauso viele Punkte in eine Durchgang macht wie der Stier, oder eben 1 oder 2 mehr, so gibt es eine Warnung. Bei 3 Warnungen geht es zurück zum Start (gleiches gilt wenn man es übertrieben hat). Welches Team als erstes 66 oder 100 Punkte hat gewinnt. Das andere wird vom Stier überrannt.\n Alternativ kann der Stier auch ein Würfel sein.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>139</id>
+        <name>6 ist Böse</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Beide Teams abwechslend aud abräumen. Wer mehr als den 6. Kegel umschmeißt bekommt -3 Punkte und nochmal wie viel er drüber ist an minus.Bleibt man unter 6 so gibt jeder Kegel pluspunkte. Bei einer Pumpe gibt es -3 und man muss nochmal. Bei jedem Wurf hat der Kegler auch die Chance die Kegel neu zu stellen und dann zu werfen. Außerdem gibt es in jedem Wurf die Möglichkeit die Kegel anzusagen. Wenn man das macht und genau die Punktzahl bekommt, dann zählt der Wurf als null und das nächste Team ist dran. Trifft man die Punktzahl nicht, dann gibt es -5Punkte für das Team. Und das nächste Team fängt wieder bei 0 an. Sobald insgesammt 7 oder mehr Kegel gefallen sind fängt alles wieder bei null an, die Bahn bleibt aber stehen wie so ist und da wird sich hier kein bisschen dran rütteln.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>140</id>
+        <name>Kniffel</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Wie man Kniwwel eben kennt. Die Bahn wird nur mit 6 Kegeln gestellt und es gibt 2 Teams. Jedes Team hat immer 5 Würfe und kann dannach noch einen korrigieren. Wichtig ist, dass der wurf auch vom gleichen Spieler korrigiert werden muss, der ihn ursprunglich geworfen hat.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>141</id>
+        <name>Straßenpenner</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Man muss sich für eine Straßenseite und einen Stellplatz entscheiden. Wird man zu oft gewckt von der Pollente ist man tot wegen müde. Mann kann auch die Ganze Straße belegen wie ein gutes Brot mit etwas Mett</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>142</id>
+        <name>Penner König</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Klingt nach einem ffa spiel, Beschreibung vergessen. War sicher doof mit AIDS</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>143</id>
+        <name>Monopoly (Mexikanische Ausgabe)</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Siehe Carls Ross</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>144</id>
+        <name>Submersion der Kegler</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>In die Vollen, Zahlen aufschreiben aber eine weniger als Kegler. Jede Runde fliegt einer Raus. Jeder muss eine der Zahlen treffen. Trifft nocheiner die Zal, dann müssen alle mit der Zahl nochmal. Solange bis alle Zahlen besetzt sind. Wenn alle Fertig gekegelt haben, dann gehen die getroffenen Zahlen in die nächste Runde, außer die Doppelten.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>145</id>
+        <name>AIDS</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Am Anfang gibt es eine Aidsling. Jeder in die Vollen. Es beginnen die gesunden, sie suchen sich eine Zahl (Platz) aus um dort zu bleiben. Dannach kommt der Aidsling und kegelt in die Vollen. Alle mit der Zahl des Aidsling bekommen Aids (bei einer Pumpe macht der Aidsling nochmal). Nun dürfen die Gesunden sich einen neuen Platz suchen, Krigen sie die Zahl vom Aidsling gibt es Aids. Wenn infizierte in 2 Runden niemanden anstecken, dann sterben sie an Aids.(Aids hat hunger auch bei Pumpen) Haben gesunde eine Pumpe dann müssen sie nochmal. Ihr ergebniss wird danch aber um anzahl der Pumpen richtung fünf korrigiert.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>146</id>
+        <name>Kegel Derby</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Die Pferde müssen laufen, wie das Zugpferd. Es gibt 4 Pferde auf die man wetten kann (am besten glkeichzeitig alle Geheim), dann werfen alle der Reihe nach in die Vollen. Bei einer 0,5,8 kommt pferd 1 weiter, bei 1,3 pferd 2, 2,4 pferd 3 und 6,7 pferd 4 bei einer 9 ist aussuchen, Pumpe nix. Die Pferde müssen dabei feld 8 erreichen, aber sobald alle Pferde das feld 1,3,5,7 erreicht haben wird einmal mit der Maschiene in die Vollen gemacht und das Pferd was rauskommt muss ein Feld zurück. \n Sonderrgel: bei 5 Pumpen hintereinander macht die maschiene nochmal und das Pferd geht zurück an den Start. MAn kann natürlich auch um Bier wetten, oder was tolles, damit das Spiel zum AllTimeFavorite wird.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>147</id>
+        <name>Kegelreihe</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Es müssen sachen in einer Liste erkegelt werden, wie beispielsweise Städte absteigend nach einwohnerzahl. Also fängt jemand an zu kegeln und nennt eine Stadt, ist diese kleiner als die vorherige bekommt der die punkte, sonst nicht. es kann dabei anforderungen geben wie beispielsweise darf die nächste stadt nicht kleiner als halb so klein sein. solange bis nichtmehr einfält was kleiner als eickhoff ist</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>148</id>
+        <name>Solide Hausnummer</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Wie Hausnummer eben is. 3, bzw. 5, Würfe in die Vollen wie immer nur diesmal zählt hoch und tief. Erst wird die Zahl vorwärts gelesen und der niedrigste bekommt einen punkt und der höchste die meisten, dannach wird die zahl rückwärts gelesen und der höchste bekommt einen punkt und der niedrigste die meisten. Am ende gewinnt der mit den meisten. (ist wahrscheinlich besser mit mehr als nur 3 würfen, besser 5 oder 4) Aids für Marrius beim rechnen</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>149</id>
+        <name>Poincaré Spiel</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder notiert eine Zahl zwischen 1 und anzahl der Spieler. Dannach macht jeder in die Vollen und die spieler bekommen punkte für die letzte Zahl auf der Anzeige (Gesammtpunkte) die bei seiner position rauskam. Beispielsweise nimmt der Speefuchs die 3, dann bekommt er nach dem 3. Wurf, der von wem auch immer ausgeführt wurde, die Punkte, die als letzte Zahl bei der Gesammtzahl stehen gutgeschrieben. Zusätzlich bekommt jeder Spiler noch Punkte für seinen Wurf undzwar so viele wie er abstand zur 5 hat. Pump e is nix und jeder runde beginnt wer anders. Haben alle einmal Angefangen ist schicht im schacht.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>150</id>
+        <name>Challenge Kegeln</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>2 Teams, die beide abwechselnd in die Vollen müssen. Dabei müssen Aufgaben erfüllt werden. Das Team das als erstes 10 (oder 15) geschafft hat gewinnt Aids.</beschreibung>
+        <atf>true</atf>
+    </spiel>
+    <spiel>
+        <id>151</id>
+        <name>Poker</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>Jeder macht 5 in die vollen un die Zahlen werden aufgeschrieben. Sind alle fertig entscheidet man sich welche Zahlen man streichen möchte und kegelt diese erneut. Pumpe is immer nix, sollte man also neu kegeln. Das beste Ergebniss gewinnt logischerweise. nicht, paar, 2 paare, drilling, full house,straße mit 4, 4ling, straße mit 5, 5 ling. Straßen dürfen zusammengekelt werden. Gewinner kriegt punkte und dann nochmall bis aids ausbricht.</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>152</id>
+        <name>LANGSAM!</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>In diesem SPiel geht es nicht um die meisten Punkte sondern um die meisten Würfe. Gewinner ist der der die meisten Würfe braucht um 30 oder mehr zu erreichen. Eine Pumpe ist 9. Bei gleichstand zählt die endpunktzahl. Beispielsweise haben errich und spakko beide 10 Würfe gebraucht, aber errich hat im letzten wurf die 35 mit einer 7 erreicht und spakko die 32 mit einer pumpe. Dann gewinnt eben spackko. 32kleiner35. Beides gleich ist gleich</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>153</id>
+        <name>Lebensmittel</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>2 Teams müssen alle Sachen auf der Einkaufsiste einkaufen, Gewinner ist der dam Ende das meiste Geld übrig hat und im Budget bleibt</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>153</id>
+        <name>platzhalter</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>einfach machen</beschreibung>
+        <atf>false</atf>
+    </spiel>
+</spiele>
+
+
+
+
+
+
+
+
+
