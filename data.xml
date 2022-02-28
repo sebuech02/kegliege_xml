@@ -2,7 +2,7 @@
 <spiele>
     <spiel>
         <id>1</id>
-        <name>Lotterie</name>
+        <name>Ich hab Aids und Lotterie</name>
         <kategorie>tdm</kategorie>
         <beschreibung>Zwei Teams: Es wird abwechselnd gekegelt. Wird eine Zahl des Bingo Felds gekegelt wird sie bei dem entsprechendem Team gestrichen. Das Team welches zuerst einen dreifach Bingo hat, gewinnt. Eine Pumpe ist nicht 0.</beschreibung>
         <atf>false</atf>
