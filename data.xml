@@ -1073,16 +1073,30 @@
     </spiel>
     <spiel>
         <id>154</id>
-        <name>test</name>
-        <kategorie>bonus</kategorie>
-        <beschreibung>einfach machen</beschreibung>
+        <name>heiße Zahl</name>
+        <kategorie>tdm</kategorie>
+        <beschreibung>Die Zahlen von zwei bis sieben müssen mindestens alle 12 Runden fallen. Fällt eine Zahl für 13 Runden nicht verliert das Team. Es geht in die vollen</beschreibung>
         <atf>false</atf>
     </spiel>
     <spiel>
         <id>155</id>
+        <name>Boffling</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>wir spielen Bowling und machen dabei in die vollen ohne die beiden Bauern. Punkte gibt es wie beim Bowling. Ja strikte ist zehn, spare auch</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>156</id>
+        <name>Jubiläum</name>
+        <kategorie>bonus</kategorie>
+        <beschreibung>Der Verein ist nun 6 Jahre alt, daher wird bei jeder sechs getrunken</beschreibung>
+        <atf>false</atf>
+    </spiel>
+    <spiel>
+        <id>157</id>
         <name>Aids_test</name>
-        <kategorie>atf</kategorie>
+        <kategorie>bonus</kategorie>
         <beschreibung>wenn ersscheint, dann aids erfolgreich</beschreibung>
-        <atf>true</atf>
+        <atf>false</atf>
     </spiel>
 </spiele>
