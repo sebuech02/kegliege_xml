@@ -1094,9 +1094,9 @@
     </spiel>
     <spiel>
         <id>157</id>
-        <name>Aids_test</name>
-        <kategorie>bonus</kategorie>
-        <beschreibung>wenn ersscheint, dann aids erfolgreich</beschreibung>
+        <name>5 und 3</name>
+        <kategorie>ffa</kategorie>
+        <beschreibung>5 vorwärts und dann drei rückwärts. Einmal viel, dann wenig. Also 5 in die vollen möglichst viel plus und dann 3 in die vollen möglichst wenig minus meistens plus gewinnt. Oder 5 volle möglichst wenig plus und drei volle möglichst viel minus um bei Null zu landen </beschreibung>
         <atf>false</atf>
     </spiel>
 </spiele>
