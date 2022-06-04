@@ -1106,4 +1106,11 @@
 <beschreibung>Tuniermodus, immer zwei gegeneinander. Gerne auch mit Gruppenpahase. Es spielen 2 gegeneinander, wer dabei den 13. Kegeln umwirft oder eine Null macht verliert. Eine Pumpe ist nochmal. Dabei kann jeder beim Start von seinem wurf entscheiden, ob er neustellen möchte, sonst steht die Bahn auf abräumen. </beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>159</id>
+<name>Spacko ist der Untermensch</name>
+<kategorie>duoq</kategorie>
+<beschreibung>Alle gegen Spacko:  Es wirft jemand in die Vollen und Spacko muss probieren, immer weniger zu werfen als derjenige, weil er ja der UNTERmensch ist. Schafft er es, kriegt er einen Punkt, wenn nicht kriegen alle anderen einen Punkt. Wer nach 3 Durchgängen mehr Punkte hat, hat gewonnen.Wichtiges Feature: Während des gesamten Spiels darf und soll man Spacko natürlich als Untermenschen beleidigen.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
