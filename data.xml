@@ -1099,4 +1099,12 @@
         <beschreibung>5 vorwärts und dann drei rückwärts. Einmal viel, dann wenig. Also 5 in die vollen möglichst viel plus und dann 3 in die vollen möglichst wenig minus meistens plus gewinnt. Oder 5 volle möglichst wenig plus und drei volle möglichst viel minus um bei Null zu landen </beschreibung>
         <atf>false</atf>
     </spiel>
+<spiel>
+<id>??</id>
+<name>Bombe</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Tuniermodus, immer zwei gegeneinander. Gerne auch mit Gruppenpahase.
+Es spielen 2 gegeneinander, wer dabei den 13. Kegeln umwirft oder eine Null macht verliert. Eine Pumpe ist nochmal. Dabei kann jeder beim Start von seinem wurf entscheiden, ob er neustellen möchte, sonst steht die Bahn auf abräumen. </beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
