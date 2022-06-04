@@ -1103,8 +1103,7 @@
 <id>158</id>
 <name>Bombe</name>
 <kategorie>ffa</kategorie>
-<beschreibung>Tuniermodus, immer zwei gegeneinander. Gerne auch mit Gruppenpahase.
-Es spielen 2 gegeneinander, wer dabei den 13. Kegeln umwirft oder eine Null macht verliert. Eine Pumpe ist nochmal. Dabei kann jeder beim Start von seinem wurf entscheiden, ob er neustellen möchte, sonst steht die Bahn auf abräumen. </beschreibung>
+<beschreibung>Tuniermodus, immer zwei gegeneinander. Gerne auch mit Gruppenpahase. Es spielen 2 gegeneinander, wer dabei den 13. Kegeln umwirft oder eine Null macht verliert. Eine Pumpe ist nochmal. Dabei kann jeder beim Start von seinem wurf entscheiden, ob er neustellen möchte, sonst steht die Bahn auf abräumen. </beschreibung>
 <atf>false</atf>
 </spiel>
 </spiele>
