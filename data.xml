@@ -1113,4 +1113,11 @@
 <beschreibung>Alle gegen Spacko:  Es wirft jemand in die Vollen und Spacko muss probieren, immer weniger zu werfen als derjenige, weil er ja der UNTERmensch ist. Schafft er es, kriegt er einen Punkt, wenn nicht kriegen alle anderen einen Punkt. Wer nach 3 Durchgängen mehr Punkte hat, hat gewonnen.Wichtiges Feature: Während des gesamten Spiels darf und soll man Spacko natürlich als Untermenschen beleidigen.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>160</id>
+<name>Mittlere Hausnummer</name>
+<kategorie>ffa</kategorie>
+<beschreibung>By Frank H. Wie Hausnummer, nur dwrder Abstand zu 55555... zählt. </beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
