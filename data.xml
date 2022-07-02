@@ -1118,6 +1118,6 @@
 <name>Mittlere Hausnummer</name>
 <kategorie>ffa</kategorie>
 <beschreibung>By Frank H. Wie Hausnummer, nur dwrder Abstand zu 55555... zählt. </beschreibung>
-<atf>false</atf>
+<atf>true</atf>
 </spiel>
 </spiele>
