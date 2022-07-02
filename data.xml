@@ -1117,7 +1117,7 @@
 <id>160</id>
 <name>Mittlere Hausnummer</name>
 <kategorie>ffa</kategorie>
-<beschreibung>By Frank H. Wie Hausnummer, nur dwrder Abstand zu 55555... zählt. </beschreibung>
+<beschreibung>By Frank H. Wie Hausnummer, nur der Abstand zu 55555... zählt. </beschreibung>
 <atf>true</atf>
 </spiel>
 </spiele>
