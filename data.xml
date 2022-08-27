@@ -1120,4 +1120,11 @@
 <beschreibung>By Frank H. Wie Hausnummer, nur der Abstand zu 55555... zählt. </beschreibung>
 <atf>true</atf>
 </spiel>
+<spiel>
+<id>161</id>
+<name>Carlos hat Durst</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder Person bekommt ein Spielfeld mit 15 feldern angemalt. Auf dem ersten Feld startet er, auf dem letzten Feld ist das Bier für Carlos. Auf der 5 und auf der 10 lauert das Böse Wasser, was Carlos töten würde. Jeder wirft dreimal in die Vollen und sucht sich in ergebniss aus, mit dem läft er Richtung Bier, mit der Differenz der anderen Beiden zieht der Rest richtung Bier. Es gibt auch die möglochkeit das Wasser mit dem ersten Wurf zu bewegen und dann mit der Differenz die anderen Carlsrosse. Wer als erstes das Bier erreicht gewinnt. Wichtig, es müssen immer alle Felder gelaufen werden und es darf nicht die Richtung gewechselt werden, geht ein Zug nicht in eine Richtung, so muss es in die andere gehen. Wer auf einem Feld mit dem Wasser landet muss zurück zum Start. Bei Pumpe muss man nochmal bis man keine hat.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
