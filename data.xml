@@ -1127,4 +1127,13 @@
 <beschreibung>Jeder Person bekommt ein Spielfeld mit 15 feldern angemalt. Auf dem ersten Feld startet er, auf dem letzten Feld ist das Bier für Carlos. Auf der 5 und auf der 10 lauert das Böse Wasser, was Carlos töten würde. Jeder wirft dreimal in die Vollen und sucht sich in ergebniss aus, mit dem läft er Richtung Bier, mit der Differenz der anderen Beiden zieht der Rest richtung Bier. Es gibt auch die möglochkeit das Wasser mit dem ersten Wurf zu bewegen und dann mit der Differenz die anderen Carlsrosse. Wer als erstes das Bier erreicht gewinnt. Wichtig, es müssen immer alle Felder gelaufen werden und es darf nicht die Richtung gewechselt werden, geht ein Zug nicht in eine Richtung, so muss es in die andere gehen. Wer auf einem Feld mit dem Wasser landet muss zurück zum Start. Bei Pumpe muss man nochmal bis man keine hat.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>??</id>
+<name>Kugelrennen</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder in die vollen. Man muss versuchen nach unten zu fallen und dafür die richtigen zahlen kegeln. Reihenfolge ist dabei eine Schlange.
+dafür wird ein feld mit 9 spalten und x Zeilen aufgemahlt. In diesen gibt es Hindernisse. Kegelt man eine 6 landed man eine zeile tiefer in spalte 6. Ist da ein hinderniss, bewegz man sich auf der eigenen zeile zur 6 und bounced die da liegende kugel einen nach oven wenn möglich.ist dort schon eine kugel, dann prallt man nach rechts oder links ab. Je nachdem von wo man kam. Genau deüber is aussuchen. Pumpe is nix.
+gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
