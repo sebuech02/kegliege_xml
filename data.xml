@@ -1136,4 +1136,11 @@ dafür wird ein feld mit 9 spalten und x Zeilen aufgemahlt. In diesen gibt es Hi
 gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>163</id>
+<name>Wetten</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder ist einmal dealer und legt hohe oder niedrige hausnummer fest. Rest versucht gegen ihn zu gewinnen. Grundeindatz ist 1 und jeder kann während des Spiels extra 10 wetten. Gewonnt er bekommmt beim gewinn das 2/3/4 fache zurück je nach leistung des dealers. Der dealer bekommt für jeden der gegen ihn gewinnt 2 minuspunkte</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
