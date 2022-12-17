@@ -1143,4 +1143,18 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Jeder ist einmal dealer und legt hohe oder niedrige hausnummer fest. Rest versucht gegen ihn zu gewinnen. Grundeindatz ist 1 und jeder kann während des Spiels extra 10 wetten. Gewonnt er bekommmt beim gewinn das 2/3/4 fache zurück je nach leistung des dealers. Der dealer bekommt für jeden der gegen ihn gewinnt 2 minuspunkte</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>163</id>
+<name>AdventsKalender </name>
+<kategorie>ffa</kategorie>
+<beschreibung>Abwechselnd in die Vollen, jeder öffnet Türchen pubkte werden addiert. Die Sonntage im advent können mehrmals geöffnet werden. Jedes kläppchen ein punkt, Nikolaus und die weihnachtstage je 3 Pubkte. Wer über 26 wirft bekommt minus1 und es gwht vpn vorne los. meiste Punkte gewinnt.</beschreibung>
+<atf>false</atf>
+</spiel>
+<spiel>
+<id>164</id>
+<name>Advents kegeln</name>
+<kategorie>duoq</kategorie>
+<beschreibung>Teams je 4, die ersten drei kegeln und ergeben addoert das Datum. Der vierte muss modulo 4 den Advent für das Datum kegeln. Schafft er es gibt es den advent als punkte.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
