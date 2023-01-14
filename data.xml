@@ -1157,4 +1157,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Teams je 4, die ersten drei kegeln und ergeben addoert das Datum. Der vierte muss modulo 4 den Advent für das Datum kegeln. Schafft er es gibt es den advent als punkte.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>166</id>
+<name>TeamLeiter</name>
+<kategorie>tdm</kategorie>
+<beschreibung>Beide Teams abwechslend in die Vollen, es zählne nur Würfe die +/-2 am Wurf des letzten Teamkollegen sind. Eine Pumpe ist dabei eine Null, bei einem Abstand von mehr als 5 zält der Wurf minus. Gewonnen hat das Team das als erstes 50 erreicht hat</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
