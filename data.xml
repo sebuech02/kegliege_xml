@@ -1171,11 +1171,4 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>es wird ein Spielplan angemalt, welches rolltreppen und aale ähnelt. Die Zahl auf dem Feld muss von dem Team geworfen werden um auf das Feld zu gelangen.Natürlich gibt es auch "Abkürzungen" und Wege zurück.Hier gibt es dann einfach zwei Zahlen auf dem nächsten Feld. </beschreibung>
 <atf>false</atf>
 </spiel>
-<spiel>
-<id>168/id>
-<name>Rauf und Runter</name>
-<kategorie>tdm</kategorie>
-<beschreibung>Es muss</beschreibung>
-<atf>false</atf>
-</spiel>
 </spiele>
