@@ -1178,4 +1178,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Ein Team beginnt in die Vollen und Kegelt von einer Zahl runter, Team 2 sagt stopp wenn es glaubt mit der gleichen anzahl an würfen den Rest zu überbieten. Gelingt es gibt es punkte. Vorbei ist wenn jeder x mal anfangen durfte. Pump ebeim runterkegeln ist eine 9, pumpe beim hochkegeln eine 0. Liegt der Durchschnitt beim Hochkegeln über 6 gibt es 3 punkte, über 5 2 Punkte und einen punkt sonst </beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>169</id>
+<name>Jede Zahl </name>
+<kategorie>ffa</kategorie>
+<beschreibung>alle müssen jede Zahl von 1 bis 9 einmal Kegeln. Jeder darf bei seinem Wurf dabei die Kegel stellen wie er will. bspw. bei eins stellt der Affe nur den König und sonst nichts auf. schafft man die Zahl gibt es die Zahl viele Punkte, sonst wird die Differenz abgezogen als minus. meiste Punkte gewinnt</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
