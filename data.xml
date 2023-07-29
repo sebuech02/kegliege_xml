@@ -1192,4 +1192,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Alle Spieler müssen in 9 Würfen versuchen die 45 zu erreichen, wer am nächsten dran ist gewinnt. Dabei werden die ersten 3 Würfe regulär ausgeführt, dann werden 3 Würfe durch jemand anderen für einen Selbst gemacht und dann wieder 3 reguläre. Am ende aller Würfe gibt es noch 2 Korrektur-Würfe, hier kann jede Zahl durch die vom Korrektur-Wurf getauscht werden. Die Würfe zu machen ist kein muss. Es ist aber nötig erst zu sagen was man korrigiert bevor man wierft. Pumone müssen nochmal.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>171</id>
+<name>Baum-Spiel</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Start Zahl in die Vollen. jeder legt fest wo er glaubt zu landen am Ende des Baumdiagramms. mit zwei Ästen je Knoten. wirft man höher als die letzte Zahl geht es nach rechts und bei kleiner nach links und bei gleich aussuchen. wer am nächsten an seinem Ziel ist gewinnt.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
