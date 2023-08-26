@@ -1199,4 +1199,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Start Zahl in die Vollen. jeder legt fest wo er glaubt zu landen am Ende des Baumdiagramms. mit zwei Ästen je Knoten. wirft man höher als die letzte Zahl geht es nach rechts und bei kleiner nach links und bei gleich aussuchen. wer am nächsten an seinem Ziel ist gewinnt.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>172</id>
+<name>Würfelreihe</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Die Zeile unten wurde per Zufallswürfel erstellt und die Zahl muss erkegelt werden. Jede Abweichung zählt minus, Treffer ist eine 0.\n Verlieren tut der mit den meisten minus Punkten\n Jeder bekommt seine eigeen Zahlenreihe\n by Anabol</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
