@@ -1203,7 +1203,7 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <id>172</id>
 <name>Würfelreihe</name>
 <kategorie>ffa</kategorie>
-<beschreibung>Die Zeile unten wurde per Zufallswürfel erstellt und die Zahl muss erkegelt werden. Jede Abweichung zählt minus, Treffer ist eine 0.\n Verlieren tut der mit den meisten minus Punkten\n Jeder bekommt seine eigeen Zahlenreihe\n by Anabol</beschreibung>
+<beschreibung>Die Zeile unten wurde per Zufallswürfel erstellt und die Zahl muss erkegelt werden. Jede Abweichung zählt minus, Treffer ist eine 0. Verlieren tut der mit den meisten minus Punkten Jeder bekommt seine eigeen Zahlenreihe by Anabol</beschreibung>
 <atf>false</atf>
 </spiel>
 </spiele>
