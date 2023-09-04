@@ -1206,12 +1206,14 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Die Zeile unten wurde per Zufallswürfel erstellt und die Zahl muss erkegelt werden. Jede Abweichung zählt minus, Treffer ist eine 0. Verlieren tut der mit den meisten minus Punkten Jeder bekommt seine eigeen Zahlenreihe by Anabol</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
     <id>173</id>
 <name>Random-Hausnummer</name>
 <kategorie>ffa</kategorie>
 <beschreibung>Wie mittlere Hausnummer, nur zählt hier der Abstand zu einer Zufallszahl. (Entweder ist die Zufllszahl 0-9 oder 1-8 je stelle)</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
     <id>174</id>
 <name>5er AK</name>
 <kategorie>ffa</kategorie>
