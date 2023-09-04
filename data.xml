@@ -478,7 +478,7 @@
     </spiel>
     <spiel>
         <id>69</id>
-        <name>nach Antalya</name>
+        <name>Nach Antalya</name>
         <kategorie>duoq</kategorie>
         <beschreibung>Zweier Teams , einer Gibt Gas und einer Schaltet. Wir fahren natürlich nicht in die Türkei, sondern in den Dönnerladen keine 50meter entfernt. Zuerst muss angefahren werden, dafür muss zuerst ein gang eingelegt werden (1,2 =1.gang; 3,4=2.Gang usw.)danach wird die drehzahl bestimmt 1=1000,2=2000... wer bein anfahren nicht in gang 1,2,oder 3 ist würgt ab, wer in gang drei ist muss mindestens 7000 umdrehungen haben .nach dem anfahren gibt es ganz normal punkte, gang + drehzahl/1000 wer eine Pumpe macht schlatet in r wie Racing und schrottet sein getrieb, er stzt einmal aus und muss neu anfahren. wer abwürgt (gang 4,5 brauchen mindestens 5k umdrehungen) oder kein gas gibt muss neu anfahren aber nicht warten. nach 30 Punkten ist steffen beim dönerladen wer zwei runden hintereinnander 7k oder mehr umdrehungen hat zerstört ebenfalls das Getriebe. nun gehts ans einparken dafür eignen sich nur gang 1,2 oder drei mit weniger als 4tausend umdrehungen. wer die mauer rammt, weil zu viel gas, muss es nochmal neu versuchen. Gewinner ist das Team welches als erstes beim 50 meter entfernten dönnermann eingeparkt hat, er genießt den ruf des absoluten faulppelzes.</beschreibung>
         <atf>false</atf>
@@ -751,7 +751,7 @@
     </spiel>
     <spiel>
         <id>108</id>
-        <name>falscher 5er</name>
+        <name>Falscher 5er</name>
         <kategorie>ffa</kategorie>
         <beschreibung>zehn wurf, 5 in die vollen und 5 auf abbräumen, wer unter 50 kommt ist ein flascher 5 er und verliert .punkte werden addiert und die meisten gewinnen</beschreibung>
         <atf>false</atf>
@@ -1073,7 +1073,7 @@
     </spiel>
     <spiel>
         <id>154</id>
-        <name>heiße Zahl</name>
+        <name>Heiße Zahl</name>
         <kategorie>tdm</kategorie>
         <beschreibung>Die Zahlen von zwei bis sieben müssen mindestens alle 12 Runden fallen. Fällt eine Zahl für 13 Runden nicht verliert das Team. Es geht in die vollen</beschreibung>
         <atf>false</atf>
