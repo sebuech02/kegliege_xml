@@ -1213,11 +1213,18 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Wie mittlere Hausnummer, nur zählt hier der Abstand zu einer Zufallszahl. (Entweder ist die Zufllszahl 0-9 oder 1-8 je stelle)</beschreibung>
 <atf>false</atf>
 </spiel>
-    <spiel>
-    <id>174</id>
+<spiel>
+<id>174</id>
 <name>5er AK</name>
 <kategorie>ffa</kategorie>
 <beschreibung>Es wird gekegelt und bei jeder fünf gibt es Apfelkorn, oder ein kleines Bier auf EX. Dabei wird bei jeder fünf eine Karte vom 5er Schnappsspiel aus der App gezogen.</beschreibung>
 <atf>true</atf>
+</spiel>
+    <spiel>
+<id>175</id>
+<name>Random Random</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder Spieler muss in acht würfen in die Vollen möglichst nah an seine Zielpunktzahl kommen. Um seine Zielpunktzal festzulegen bestimmt er die Anzahl der Würfel, die gerollt werden (Helfer aus der App) und sein Ziel ist der addirte WErt der Augen. Beispiel, Carlsross wählt 10 Würfel, alle sind eine 2 also ist seine Zielpunktzahl 20 in 8 Würfen.</beschreibung>
+<atf>false</atf>
 </spiel>
 </spiele>
