@@ -1227,4 +1227,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Jeder Spieler muss in acht würfen in die Vollen möglichst nah an seine Zielpunktzahl kommen. Um seine Zielpunktzal festzulegen bestimmt er die Anzahl der Würfel, die gerollt werden (Helfer aus der App) und sein Ziel ist der addirte WErt der Augen. Beispiel, Carlsross wählt 10 Würfel, alle sind eine 2 also ist seine Zielpunktzahl 20 in 8 Würfen.</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+<id>176</id>
+<name>Zahlen-Palette</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder muss in 11 Würfen versuchen jede Zahl einmal zu Erkegeln(inkl. 0). Trifft man eine Zahl zum zweiten mal gibt es einen Minuspunkt für sich selbst. Am Ende bekommt man für jede erkegelt zahl dann genauso viele Punkte wie es Spieler gibt, die diese Zahl nicht haben. Haben alle ien Zahl gibt es keine Punkte. Bei einer Pumpe gibt es einen Minuspunkt und der Versuch ist vorbei.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
