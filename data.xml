@@ -1234,4 +1234,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Jeder muss in 11 Würfen versuchen jede Zahl einmal zu Erkegeln(inkl. 0). Trifft man eine Zahl zum zweiten mal gibt es einen Minuspunkt für sich selbst. Am Ende bekommt man für jede erkegelt zahl dann genauso viele Punkte wie es Spieler gibt, die diese Zahl nicht haben. Haben alle ien Zahl gibt es keine Punkte. Bei einer Pumpe gibt es einen Minuspunkt und der Versuch ist vorbei.</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+    <id>177</id>
+<name>Knast-helfer</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Es gibt Anzahl der Spieler plus 2 Knastis, die befreit werden müssen. Dazu bekommt jeder Knasti 9 Gitterstäbe die entfernt werden müssen damit der frei ist. In jedem Wurf bekommt man als Kegeler Gitterstäbe, davan darf man immer einen Permanent ntfernen und die restlichen verschieben(Muss man aber nicht) Bei einer eins 1 Satb, 2 2 Stäbe, 3 3Stäbe, 4 2 Stäbe, 5 null, 6, 1 Stab, 7 2 St, 8 st, neun 5st. Null ist Null und pumpe auch. Wer seinen gefangenen als erstes Befreit gewinnt.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
