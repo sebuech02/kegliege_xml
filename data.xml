@@ -1241,4 +1241,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Es gibt Anzahl der Spieler plus 2 Knastis, die befreit werden müssen. Dazu bekommt jeder Knasti 9 Gitterstäbe die entfernt werden müssen damit der frei ist. In jedem Wurf bekommt man als Kegeler Gitterstäbe, davan darf man immer einen Permanent ntfernen und die restlichen verschieben(Muss man aber nicht) Bei einer eins 1 Satb, 2 2 Stäbe, 3 3Stäbe, 4 2 Stäbe, 5 null, 6, 1 Stab, 7 2 St, 8 st, neun 5st. Null ist Null und pumpe auch. Wer seinen gefangenen als erstes Befreit gewinnt.</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+<id>178</id>
+<name>Median Kegeln</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Jeder legt eine Zahl fest, die er in 7 Würfen als Median erreichen muss. Differenz Minuspunkte mit 3 runden. es muss je runde eine neue Zahl sein. Pumpe ist nochmal </beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
