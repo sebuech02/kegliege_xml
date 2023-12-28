@@ -1255,4 +1255,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>jeder in die vollen 6 würfe. Danach muss jeder Rechenzeichen dazwischen malen. Dabei mindestens, ein gleich Zeichen. Gerne mehr.\n Es gewinnt der mit dem wenigsten Abstand zwischen den Gleichungen. bei mehreren Gleichzeichen werden die Gleichungen von links nach rechts einzeln betrachtet.\n Erlaubte Zeichen sind = + - * / ^. Zusätlich sind gerne mehr operationen möglich. Es gitb auch die Carlos version, in der statt mit Zahlen mit Z-moduln (oder Gruppen der Ordnung) gerechnet wird. Also Z/4Z entspricht einer 4 oder Kleinsche Vierergruppe. Rechenoperationen sind dann die Typischen Gruppenverknüpfungen (Äquivalenzklassen, Kreuzprodukt, ...)</beschreibung>
 <atf>false</atf>
 </spiel>
+       <spiel>
+<id>180</id>
+<name>GO Kegeln</name>
+<kategorie>tdm</kategorie>
+<beschreibung>Beide Teams abwechselnd in die Vollen. Ziel ist es das 5x5 Feld für ein Team auszumalen. Nach jedem Wurf schreibt man sein Ergebnis in ein Beliebiges Kästchen, jedes der 4 Kästchen daneben welches einen niedrigeren Wert hat wird dann in die Farbe des Teams geändert. Wer am Ende die meisten Felder eingefärbt hat gewinnt. Pumpen sind weniger als 0 und bei Gleichwertigen Feldern ändert sich nichts. (Alternativ kann man auch sagen die niedrigste Zahl gewinnt, oder abstand zur 5)</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
