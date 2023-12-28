@@ -1252,7 +1252,7 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <id>179</id>
 <name>Rechner Kegeln</name>
 <kategorie>ffa</kategorie>
-<beschreibung>jeder in die vollen 6 würfe. Danach muss jeder Rechenzeichen dazwischen malen. Dabei mindestens, ein gleich Zeichen. Gerne mehr.\n Es gewinnt der mit dem wenigsten Abstand zwischen den Gleichungen. bei mehreren Gleichzeichen werden die Gleichungen von links nach rechts einzeln betrachtet.\n Erlaubte Zeichen sind = + - * / ^</beschreibung>
+<beschreibung>jeder in die vollen 6 würfe. Danach muss jeder Rechenzeichen dazwischen malen. Dabei mindestens, ein gleich Zeichen. Gerne mehr.\n Es gewinnt der mit dem wenigsten Abstand zwischen den Gleichungen. bei mehreren Gleichzeichen werden die Gleichungen von links nach rechts einzeln betrachtet.\n Erlaubte Zeichen sind = + - * / ^. Zusätlich sind gerne mehr operationen möglich. Es gitb auch die Carlos version, in der statt mit Zahlen mit Z-moduln (oder Gruppen der Ordnung) gerechnet wird. Also Z/4Z entspricht einer 4 oder Kleinsche Vierergruppe. Rechenoperationen sind dann die Typischen Gruppenverknüpfungen (Äquivalenzklassen, Kreuzprodukt, ...)</beschreibung>
 <atf>false</atf>
 </spiel>
 </spiele>
