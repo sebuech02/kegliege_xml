@@ -1262,4 +1262,18 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Beide Teams abwechselnd in die Vollen. Ziel ist es das 5x5 Feld für ein Team auszumalen. Nach jedem Wurf schreibt man sein Ergebnis in ein Beliebiges Kästchen, jedes der 4 Kästchen daneben welches einen niedrigeren Wert hat wird dann in die Farbe des Teams geändert. Wer am Ende die meisten Felder eingefärbt hat gewinnt. Pumpen sind weniger als 0 und bei Gleichwertigen Feldern ändert sich nichts. (Alternativ kann man auch sagen die niedrigste Zahl gewinnt, oder abstand zur 5)</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+<id>181</id>
+<name>Aufsteigende Reihe</name>
+<kategorie>tdm</kategorie>
+<beschreibung>Zwei Teams abwechselnd in die vollen, Ziel ist es immer weiter austeigende Reihen zu machen. diese müssen mindestens 3 lang sein. Ab lange drei können die Reihen eingetütet werden. damit sichert man sich die Punkte und beginnt eine neue Reihe. bei einer echt größeren Nummer ist die Reihe kaputt undan muss eine neue anfangen. Pumpe zerstört die Reihe, vorbei nach x Durchgängen </beschreibung>
+<atf>false</atf>
+</spiel>
+    <spiel>
+<id>182</id>
+<name>Alphabetische Hausnummer</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Statt hoch oder tief zählt die Position der Zahlen im Alphabet. Acht, drei, eins, fünf, neun, null, sechs, sieben, vier, zwei 8,3,1,5,9,0,6,7,4,2</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
