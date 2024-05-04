@@ -1290,4 +1290,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Jeder wird mal Blindes Huhn und muss Blind (wirklich Blind) in die Vollen Ballern und gibt damit die Punktzahl für den Durchgang an. Alle anderen Müssen in die Vollen versuche die Zahl vom Huhn zu treffen. Ist die Zahl höher, gibt es die Differenz als Striche, bei gleich passiert nix, bei niedrieger gibt es die Differenz mal 3 als Striche. Pumpe sind 5 Striche. Hat das Huhn eine Pumpe muss es nochaml.</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+<id>185</id>
+<name>Die Uhr</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Es werden die Kegel im Uhrzeigersinn von dem Vorderholz aus bis zum König nacheinander als Bild aufgestellt (immer nur 1 Kegel im Bild). Wer den Kegel trifft bekommt im ersten durchgang 1 Punkt, im zweiten 2 usw. Eine Pumpe ist die gleiche Anzahl als Minus. Gewonnen haben die meisten Punkte. Bei unentschieden der der als erstes die aktuelle Uhrzeit Schreit.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
