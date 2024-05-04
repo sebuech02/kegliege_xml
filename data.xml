@@ -1276,4 +1276,18 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Statt hoch oder tief zählt die Position der Zahlen im Alphabet. Acht, drei, eins, fünf, neun, null, sechs, sieben, vier, zwei 8,3,1,5,9,0,6,7,4,2</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>183</id>
+<name>Sechstagerennen</name>
+<kategorie>duoq</kategorie>
+<beschreibung>Teams zu zweit speieln auf Abräumen, meiste Punkte gewinnt. Am Monatg zählt alles mal 1, Dienstag mal zwei, ... Samstag mal 6. Am Sonstag wird gezählt. Bei einer 9 wird neu gestellt und die Ounkte addiert.</beschreibung>
+<atf>false</atf>
+</spiel>
+    <spiel>
+<id>184</id>
+<name>Platzhalter_TITEL</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Carlos hat AIDS</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
