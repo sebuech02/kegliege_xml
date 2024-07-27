@@ -1297,4 +1297,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Es werden die Kegel im Uhrzeigersinn von dem Vorderholz aus bis zum König nacheinander als Bild aufgestellt (immer nur 1 Kegel im Bild). Wer den Kegel trifft bekommt im ersten durchgang 1 Punkt, im zweiten 2 usw. Eine Pumpe ist die gleiche Anzahl als Minus. Gewonnen haben die meisten Punkte. Bei unentschieden der der als erstes die aktuelle Uhrzeit Schreit.</beschreibung>
 <atf>false</atf>
 </spiel>
+    <spiel>
+<id>186</id>
+<name>Häppchen Kegeln</name>
+<kategorie>tdm</kategorie>
+<beschreibung>alle abwechselnd in die vollen. die Punkte werden addiert bis ein Happen a 20 Punkte voll ist.die 20 muss genau getroffen werden sonst passiert nichts. vorbei ist es wenn ein Team alle drei Happen voll hat. zusätzlich wird nach jeder Pumpe ein abzieh strich gemacht und nach 5 würfen oder einem Durchgang werden die Punkte so abgezogen. man startet mit 2 abzieh strichen. ein abgeschlossener Happen kann nicht mehr abgezogen werden.</beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
