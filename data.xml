@@ -1304,4 +1304,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>alle abwechselnd in die vollen. die Punkte werden addiert bis ein Happen a 20 Punkte voll ist.die 20 muss genau getroffen werden sonst passiert nichts. vorbei ist es wenn ein Team alle drei Happen voll hat. zusätzlich wird nach jeder Pumpe ein abzieh strich gemacht und nach 5 würfen oder einem Durchgang werden die Punkte so abgezogen. man startet mit 2 abzieh strichen. ein abgeschlossener Happen kann nicht mehr abgezogen werden.</beschreibung>
 <atf>false</atf>
 </spiel>
+<spiel>
+<id>187</id>
+<name>Fangen</name>
+<kategorie>tdm</kategorie>
+<beschreibung>Zwei teams die sich abwechselnd fangen müssen. Die Würfe bestimmen dabei wohin man auf dem Feld zieht. Gewonnen hat das Team was am schnellsten war. Pumpe passiert nix. Bei der neun kann man sich die Richtung aussuchen</beschreibung>
+<atf>false</atf>
+</spiel> 
 </spiele>
