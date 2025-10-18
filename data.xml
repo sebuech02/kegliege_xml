@@ -1311,4 +1311,11 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Zwei teams die sich abwechselnd fangen müssen. Die Würfe bestimmen dabei wohin man auf dem Feld zieht. Gewonnen hat das Team was am schnellsten war. Pumpe passiert nix. Bei der neun kann man sich die Richtung aussuchen</beschreibung>
 <atf>false</atf>
 </spiel> 
+<spiel>
+<id>187</id>
+<name>Der Kegel ist heiß </name>
+<kategorie>tdm</kategorie>
+<beschreibung>Alle einmal im Team in die vollen um das Budget zu bestimmen, da nach immer ein wurf und es wird ein Kegel auktioniert. Wenn alle Kegel verkauft wurden Spielt jedes Team mit seinen Kegeln hohe oder niedrige Hausnummer mit so vielen Zahlen wie spieler im größeren Team. Die beiden teams sollten genau invertierte Bilder haben </beschreibung>
+<atf>false</atf>
+</spiel>
 </spiele>
