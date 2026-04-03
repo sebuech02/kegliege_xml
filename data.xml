@@ -1318,4 +1318,13 @@ gewonnen tut der der unten ist. Der letzte verliert </beschreibung>
 <beschreibung>Alle einmal im Team in die vollen um das Budget zu bestimmen, da nach immer ein wurf und es wird ein Kegel auktioniert. Wenn alle Kegel verkauft wurden Spielt jedes Team mit seinen Kegeln hohe oder niedrige Hausnummer mit so vielen Zahlen wie spieler im größeren Team. Die beiden teams sollten genau invertierte Bilder haben </beschreibung>
 <atf>false</atf>
 </spiel>
+
+<spiel>
+<id>189</id>
+<name>Ostereiersuche</name>
+<kategorie>ffa</kategorie>
+<beschreibung>Es wird nach der Reihenfolge an der Tafel abwechselnd in die vollen geworfen. Dabei werden zuerst alle Kegel durchnumeriert, damit sie einen Namen haben (am besten ein am anmalen). Der erste Kegeler wählt einen Kegel als osterei und sagt keinen welcher Kegel (am besten verdeckt auf Bierdeckel schreiben). Er ist der Osterhase. danach Kegeln die anderen in die vollen und nach jedem wurf sagt der Osterhase, ob das osterei gefallen ist oder nicht. Das osterei gibt dabei einen punk, abräumen sind 2 Bonuspunkte plus der Punkt fürs osterei also 3. Kranz ist 1 Bonuspunkt plus osterei, wenn es gefallen ist. Am Ende gewinnt der mit den meisten Punkten, es sollte jeder einmal der Hase gewesen sein. Bei wenig Leuten sollte man zwei Durchgänge machen, bevor es ein neues osterei gibt, damit man genug Infos hat um zu raten wo es ist. </beschreibung>
+<atf>false</atf>
+</spiel>
+
 </spiele>
